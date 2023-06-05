@@ -136,7 +136,7 @@ Stack Gesture, Unstack/Untrack Gesture, Info Unstack/Untrack Gesture
 
 ### Utility System Command Gestures
 
-Define System Command Gesture, Info Gesture, Home Gesture, Share & Accept Gestures
+Define System Command Gesture, Info Gesture, Home Gesture, Share & Accept Gestures, Stop Being In Contact Gesture
 
 ### Reserved Defined System Commands
 

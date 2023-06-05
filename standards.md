@@ -174,7 +174,7 @@ Stack Gesture, Unstack/Untrack Gesture, Info Unstack/Untrack Gesture
 
 ### Utility System Command Gestures
 
-Define System Command Gesture, Info Gesture, Home Gesture, Share & Accept Gestures
+Define System Command Gesture, Info Gesture, Home Gesture, Share & Accept Gestures, Stop Being In Contact Gesture
 
 ### Reserved Defined System Commands
 
@@ -368,6 +368,8 @@ Define a module that/which/where... Named/called..., Update the... module... To 
 **Home Gesture:**Tap the thumbs together two times within a second to be takes the user to the user’s plateau, if available, on the device the user is interfacing with, if available, and/or segment the user is contacted through
 
 **Share & Accept Gestures:** An extended open palm with a description of what to share proposes sharing of system speech the user has interacted with, with the palm closing user, or any of a group of palm closing users to be shared to close their palm into a fist to accept the proposed to be shared is stacked by the palm closing users if the palm closing users close their palm while the open palm user is intending to share the system speech, within the limits of the user’s authorization, authorization level, and role, and permissions to share, also licensing and copyrights and governmental regulation
+
+**Stop Being In Contact Gesture:** Extending the thumb and pinky outwards, and closing the index finger, middle finger, and ring finger to the palm, then placing the closed fingers between the first and second knuckles to the leg, performs the Stop being in contact with... System Command for the newest to be in contact independent system, or waepoint, or endpoint, the user is in contact with
 
 ## Reserved Defined System Commands
 
