@@ -154,7 +154,7 @@ Send a message to…, Replay the last message…, Reply with…, Conference call
 
 ### Contacting System Commands
 
-Contact…, Contact… with a/the message…, ...Hangup.../…Hangs up…/...Hung up…, Join… with..., …Left…/…Leaves…/…Leave…, …Listen for incoming contacting/joining requests...
+Contact…, Contact… with a/the message…, ... Stop being in contact with..., ...Hangup.../…Hangs up…/...Hung up…, Join… with..., …Left…/…Leaves…/…Leave…, …Listen for incoming contacting/joining requests...
 
 ### Transportation System Commands
 
