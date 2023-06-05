@@ -14,6 +14,8 @@ Waepoint System Standards of the main git branch of the waepointstandards git re
 
 Waepoint System Standards of the git branch the user has said to be trying out most recently of the waepointstandards git repository from the git origin stored at https://github.com/waepoints/waepointstandards
 
+Auxillary Notes
+
 Modules Of The System(s) On The User’s Device
 
 Modules Of The Joined and/or From Outside The User’s System Interacting, Mapping(s), Collection(s), System, or Systems, or Compatible Device, or Compatible Devices, and Users of
@@ -54,9 +56,9 @@ Commands and Definitions Of The User By The User and Imbuings and Definitions Of
 
 Commands and Definitions Of The User By The User and Imbuings and Definitions Of Property By Users Of The User’s System and Users Of The Joined And/Or From Outside The User’s System Interacting, Compatible Device, Or Compatible Devices, Or System, Or Systems’ Users and Users Of The Managing Entity
 
-Comments and Definitions Of The User By Other Users and Definitions Of Some Users Of The Managing Entity’s Owners
-
 Comments and Definitions Of The User By Other Users and Definitions Of Some Users Of The System Or Compatible Device’s Or Compatible Devices’
+
+Comments and Definitions Of The User By Other Users and Definitions Of Some Users Of The Managing Entity’s Owners
 
 Comments and Definitions Of The User By Other Users and Definitions of Some Users Of The Joined and/or From Outside The User’s System Interacting, Compatible Device’s, Or Compatible Devices’, Or System’s, Or Systems’, Users and Users Of The Managing Entity
 
@@ -112,7 +114,7 @@ System Command Name(s), System Command Declarations, System Command Interactions
 
 ### System Setup
 
-Effects, Modiphases, Parallels, Gateways, Modules, Module Descriptions, System, System Stack, Independent System, Travel, Protocols, Inheriting, Managing Entity, Preferrings, Inventory, Hub Provisions, User, Owner, Administrator, Moderator, Endpoint, The Grand Lobby, Independent Lobby, Joining, Waepoint, Hub, Definition Of The Compatible Device(s) and/or Compatible Software or Mapping(s) or System(s), Confirmation, Messaging Confirmation, System Command Confirmation, Abandon, Shelving, Changelog, Activity, Mandates, Affect, History, Securing, Securelinking, Freeing, Locking, Warding, Free, Anchoring…, Stacking, Tracking, Mappings, Relaypoint, Resource, Clustering, Extending, Modes, Scope
+Effects, Parallels, Gateways, Modules, Module Descriptions, System, System Stack, Independent System, Travel, Protocols, Inheriting, Managing Entity, Preferrings, Inventory, Hub Provisions, User, Owner, Administrator, Moderator, Endpoint, The Grand Lobby, Independent Lobby, Joining, Waepoint, Hub, Definition Of The Endpoint, or Waepoint, or Independent System, or Stacked System, Confirmation, Messaging Confirmation, System Command Confirmation, Abandon, Shelving, Changelog, Activity, Mandates, Affect, History, Securing, Securelinking, Freeing, Locking, Warding, Free, Anchoring…, Stacking, Tracking, Mappings, Relaypoint, Resource, Clustering, Extending, Modes, Scope
 
 ### System Mappings
 
@@ -146,9 +148,13 @@ Define System Command Gesture, Info Gesture, Home Gesture, Share & Accept Gestur
 
 Opt me… in…, Opt in to…, Opt out of….
 
-### Connection System Commands
+### Communication System Commands
 
-Connect to…, Connect to… with a/the message…, ...Hangup.../…Hangs up…/...Hung up…, Join… with..., …Left…/…Leaves…/…Leave…, …Listen for incoming connection/joining requests...
+Send a message to…, Replay the last message…, Reply with…, Conference call with…
+
+### Contacting System Commands
+
+Contact…, Contact… with a/the message…, ...Hangup.../…Hangs up…/...Hung up…, Join… with..., …Left…/…Leaves…/…Leave…, …Listen for incoming contacting/joining requests...
 
 ### Transportation System Commands
 
@@ -165,10 +171,6 @@ Generate a new name…, Deshelve…, ...Ask… … Where…/… Where’s…/…
 ### Declaring System Commands
 
 ... (Re)Focus..., (Re)Perform/(Re)Do the system command(s)..., ... (Re)Apply..., … (Re)Secure…, … Free…, … (Re)Ward…, … (Re)Allward..., … (Re)Lock…, … Unanchor..., (Re)Do/(Re)Perform The Essential Anchoring For..., …(Re)Reset… back to reality…, … I (Re)confirm…, …(Re)Join… the/those… phrases…, … (Re)Separate... the/those/that... Phrase/phrases... Into..., … Change… to say…, … Amend… With…, … Prepend… To…, … Add… that… to…, … Remove… from…, … (Re)Stack..., … (Re)Track..., … Unstack…, … Stop tracking…, … Unstack… and leave…, … Stop tracking and unstack..., … Stop tracking… and leave…, … Stop tracking and unstack… and leave…, … Clean up/Clear/Lose…, … Clean up/Clear/Lose… and adjust…, ... Refactor...
-
-### Communication System Commands
-
-Send a message to…, Replay the last message…, Reply with…, Conference call with…
 
 ### Sets System Commands
 
@@ -202,6 +204,6 @@ Designate… as…, Give my role of… to…, Undesignate… as…
 
 Define a module that/which/where... Named/called..., Update the... module... To have..., Rename the... Module to..., Load... Module..., Restore… module…, Stop/Cancel/Unload... Module(s)..., Add a...
 
-### Connection & Joining Requests
+### Contacting & Joining Requests
 
-### Incoming Connection & Joining Requests
+### Incoming Contacting & Joining Requests
