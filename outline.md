@@ -136,7 +136,7 @@ Stack Gesture, Unstack/Untrack Gesture, Info Unstack/Untrack Gesture
 
 ### Utility System Command Gestures
 
-Define System Command Gesture, Info Gesture, Home Gesture, Share & Accept Gestures, Stop Being In Contact Gesture
+Define System Command Gesture, Info Gesture, Home Gesture, Share & Accept Gestures, Stop Being In Contact A Time Gesture
 
 ### Reserved Defined System Commands
 
@@ -154,7 +154,7 @@ Send a message to…, Replay the last message…, Reply with…, Conference call
 
 ### Contacting System Commands
 
-Contact…, Contact… with a/the message…, ... Stop being in contact with..., ...Hangup.../…Hangs up…/...Hung up…, Join… with..., …Left…/…Leaves…/…Leave…, …Listen for incoming contacting/joining requests...
+Contact…, Contact… with a/the message…, ... Stop being in contact with... a time..., ...Hangup.../…Hangs up…/...Hung up…, Join… with..., …Left…/…Leaves…/…Leave…, …Listen for incoming contacting/joining requests...
 
 ### Transportation System Commands
 
