@@ -114,7 +114,7 @@ System Command Name(s), System Command Declarations, System Command Interactions
 
 ### System Setup
 
-Effects, Modiphizing, Modiphases, Parallels, Gateways, Modules, Module Descriptions, System, System Stack, Independent System, Travel, Protocols, Inheriting, Managing Entity, Preferrings, Inventory, Hub Provisions, User, Owner, Administrator, Moderator, Endpoint, The Grand Lobby, Independent Lobby, Joining, Waepoint, Hub, Definition Of The Endpoint, or Waepoint, or Independent System, or Stacked System, Confirmation, Messaging Confirmation, System Command Confirmation, Abandon, Shelving, Changelog, Activity, Mandates, Affect, History, Securing, Securelinking, Freeing, Locking, Warding, Free, Anchoring…, Stacking, Tracking, Mappings, Relaypoint, Resource, Clustering, Extending, Modes, Scope
+Effects, Modiphs, Modiphating, Modiphizing, Modiphading, Modiphases, Parallels, Gateways, Modules, Module Descriptions, System, System Stack, Independent System, Travel, Protocols, Inheriting, Managing Entity, Preferrings, Inventory, Hub Provisions, User, Owner, Administrator, Moderator, Endpoint, The Grand Lobby, Independent Lobby, Joining, Waepoint, Hub, Definition Of The Endpoint, or Waepoint, or Independent System, or Stacked System, Confirmation, Messaging Confirmation, System Command Confirmation, Abandon, Shelving, Changelog, Activity, Mandates, Affect, History, Securing, Securelinking, Freeing, Locking, Warding, Free, Anchoring, Stacking, Effecting, Mappings, Relaypoint, Resource, Clustering, Extending, Modes, Scope
 
 ### System Mappings
 
@@ -170,7 +170,7 @@ Generate a new name…, Deshelve…, ...Ask… … Where…/… Where’s…/…
 
 ### Declaring System Commands
 
-... (Re)Focus..., (Re)Perform/(Re)Do the system command(s)..., ... (Re)Apply..., … (Re)Secure…, … Free…, … (Re)Ward…, … (Re)Allward..., … (Re)Lock…, … Modiphizing… effects… to/as/with/is/are… modiphases…, … Unanchor..., (Re)Do/(Re)Perform The Essential Anchoring For..., …(Re)Reset… back to reality…, … I (Re)confirm…, …(Re)Join… the/those… phrases…, … (Re)Separate... the/those/that... Phrase/phrases... Into..., … Change… to say…, … Amend… With…, … Prepend… To…, … Add… that… to…, … Remove… from…, … (Re)Stack..., … (Re)Track..., … Unstack…, … Stop tracking…, … Unstack… and leave…, … Stop tracking and unstack..., … Stop tracking… and leave…, … Stop tracking and unstack… and leave…, … Clean up/Clear/Lose…, … Clean up/Clear/Lose… and adjust…, ... Refactor...
+... (Re)Focus..., (Re)Perform/(Re)Do the system command(s)..., ... (Re)Apply..., … (Re)Secure…, … Free…, … (Re)Ward…, … (Re)Allward..., … (Re)Lock…, … Modiphate… effects… to/with/as/is/are… modiphs…, … Modiphade… modiphs… to/with/as/is/are… modiphases…, … Modiphize… effects… to/as/with/is/are… modiphases…, … Unanchor..., (Re)Do/(Re)Perform The Essential Anchoring For..., …(Re)Reset… back to reality…, … I (Re)confirm…, …(Re)Join… the/those… phrases…, … (Re)Separate... the/those/that... Phrase/phrases... Into..., … Change… to say…, … Amend… With…, … Prepend… To…, … Add… that… to…, … Remove… from…, … (Re)Stack..., … (Re)Track..., … Unstack…, … Stop tracking…, … Unstack… and leave…, … Stop tracking and unstack..., … Stop tracking… and leave…, … Stop tracking and unstack… and leave…, … Clean up/Clear/Lose…, … Clean up/Clear/Lose… and adjust…, ... Refactor...
 
 ### Sets System Commands
 
