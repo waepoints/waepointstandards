@@ -278,7 +278,7 @@ Define a module that/which/where... Named/called..., Update the... module... To 
 ## System Setup
 
 **Effects**, virtualized changes away from reality
-**Modiphs**, changes away from reality which become integrated with reality as the change is changing away from reality
+**Modiphs**, changes away from reality which do, and did, become integrated with reality as the change is changing away from reality
 **Modiphating**, changing effects to modiphs which are actual
 **Modiphizing**, changing effects to modiphases
 **Modiphading**, changing modiphs to modiphases
