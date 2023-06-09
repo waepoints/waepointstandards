@@ -110,7 +110,7 @@ Commands, Comments, Imbuing, Provisions, Tenets, Ways, Confirmed Phrase and Conf
 
 ### System Command Speech
 
-System Command Name(s), System Command Declarations, System Command Interactions
+System Command Name(s), System Command Declarations, System Command Interactions, Auxiliary Notes
 
 ### System Setup
 
