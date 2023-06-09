@@ -170,7 +170,7 @@ Generate a new name…, Deshelve…, ...Ask… … Where…/… Where’s…/…
 
 ### Declaring System Commands
 
-... (Re)Focus..., (Re)Perform/(Re)Do the system command(s)..., ... (Re)Apply..., … (Re)Secure…, … Free…, … (Re)Ward…, … (Re)Allward..., … (Re)Lock…, … Modiphate… effects… to/with/as/is/are… modiphs…, … Modiphade… modiphs… to/with/as/is/are… modiphases…, … Modiphize… effects… to/as/with/is/are… modiphases…, … Unanchor..., (Re)Do/(Re)Perform The Essential Anchoring For..., …(Re)Reset… back to reality…, … I (Re)confirm…, …(Re)Join… the/those… phrases…, … (Re)Separate... the/those/that... Phrase/phrases... Into..., … Change… to say…, … Amend… With…, … Prepend… To…, … Add… that… to…, … Remove… from…, … (Re)Stack..., … (Re)Track..., … Unstack…, … Stop tracking…, … Unstack… and leave…, … Stop tracking and unstack..., … Stop tracking… and leave…, … Stop tracking and unstack… and leave…, … Clean up/Clear/Lose…, … Clean up/Clear/Lose… and adjust…, ... Refactor...
+... (Re)Focus..., (Re)Perform/(Re)Do the system command(s)..., ... (Re)Apply..., … (Re)Secure…, … Free…, … (Re)Ward…, … (Re)Allward..., … (Re)Lock…, … Modiphize… effects… to/as/with/is/are… modiphases…, … Unanchor..., (Re)Do/(Re)Perform The Essential Anchoring For..., …(Re)Reset… back to reality…, … I (Re)confirm…, …(Re)Join… the/those… phrases…, … (Re)Separate... the/those/that... Phrase/phrases... Into..., … Change… to say…, … Amend… With…, … Prepend… To…, … Add… that… to…, … Remove… from…, … (Re)Stack..., … (Re)Track..., … Unstack…, … Stop tracking…, … Unstack… and leave…, … Stop tracking and unstack..., … Stop tracking… and leave…, … Stop tracking and unstack… and leave…, … Clean up/Clear/Lose…, … Clean up/Clear/Lose… and adjust…, ... Refactor...
 
 ### Sets System Commands
 
@@ -203,6 +203,10 @@ Designate… as…, Give my role of… to…, Undesignate… as…
 ### Module System Commands
 
 Define a module that/which/where... Named/called..., Update the... module... To have..., Rename the... Module to..., Load... Module..., Restore… module…, Stop/Cancel/Unload... Module(s)..., Add a...
+
+### Processing System Commands
+
+… Modiphate… effects… to/with/as/is/are… modiphs…, … Modiphade… modiphs… to/with/as/is/are… modiphases…,
 
 ### Contacting & Joining Requests
 
