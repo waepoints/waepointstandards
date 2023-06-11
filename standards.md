@@ -1,6 +1,6 @@
 # Waepoint System Standards
 ## Outline of the Waepoint System Standards
-1. [System Speech Priorities Hierarchy](https://waepoints.github.io/waepointstandards-documentation/standards.html#system-speech-priorities-hierarchy)
+1. [System Speech and System Setup Priorities Hierarchy](https://waepoints.github.io/waepointstandards-documentation/standards.html#system-speech-and-system-setup-priorities-hierarchy)
 2. [Preferring Hierarchy](https://waepoints.github.io/waepointstandards-documentation/standards.html#preferring-hierarchy)
 3. [Role Hierarchy](https://waepoints.github.io/waepointstandards-documentation/standards.html#role-hierachy)
 4. [System Definition Hierarchy](https://waepoints.github.io/waepointstandards-documentation/standards.html#system-definition-hierachy)
