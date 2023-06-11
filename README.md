@@ -24,7 +24,7 @@ The repository can be fully uninstalled using the Clean Uninstall The Repository
 
 # How To Use The Standard Definition...
 
-To try out the standardized Standard Definition as referenced in the first quote of the README.md, describe independently yourself as trying out the standardized Standard Definition referenced in the quote on waepoints.com, when done, describe independently yourself as done with trying out that time the standardized Standard Definition
+To try out the standardized Standard Definition as referenced in the first quote of the README.md, describe independently yourself as trying out the standardized Standard Definition referenced in the quote on waepoints.com, when done, describe independently yourself as done with trying out, the specific instance of trying out, the standardized Standard Definition
 
 If you want to stack the definition of perfect form to for the compatible device to be an endpoint described in the standardized Standard Definition on a compatible device, and have the permission of an owner, or governing entity of the device, to do so, say you are trying out the standardized Standard Definition and then describe, my intended compatible device is stacked on the standardized Standard Definition, or the Standard Definition of Interactions with the Compatible Device(s), which is referenced in the quote on waepoints.com, and get rid of the standardized Standard Definition, or the Standard Definition of Interactions with the Compatible Device(s), by saying otherwise
 
