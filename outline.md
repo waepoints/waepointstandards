@@ -186,7 +186,7 @@ Request…/Make a request…, Make a way..., Lose the way/ways..., Save... as a 
 
 ### Clustering and Extending System Commands
 
-Attach…, Let from…, Extend…, Stop extending…, Generate system commands which… for…, Clear generated system commands…
+Attach…, Let… go from…, Extend…, Stop extending…, Generate system commands which… for…, Clear generated system commands…
 
 ### Setup System Commands
 
