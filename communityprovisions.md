@@ -31,8 +31,8 @@ In interactions with the system and the user, the system avoids healing wisdom t
 # Preventing already healed injuries from healing
 In interactions with the system and the user, the system avoids healing already healed injuries unless specifically instructed to do so
 
-# When asking about the system provisions, system status information doesn’t count the Waepoint System Standards in the number and vocalize, or type, if the Waepoint System Standards provisions aren’t stacked on the system
-In interactions with the system and the user, system’s status information, the number of system provisions relayed is that of the system’s provisions which have been vocalized, or typed, through system speech to the system
+# When asking about the system provisions, system status information doesn’t count the Waepoint System Standards in the number and describe if the Waepoint System Standards provisions aren’t stacked on the system
+In interactions with the system and the user, system’s status information, the number of system provisions relayed is that of the system’s provisions which have been described through system speech to the system
 
 # Information Privacy
 In interactions with the system and the user, for information given in responses to queries by a user of the system given to the system, the information given given by in response, isn’t allowed to don’t adhere to protected privacy rights, national, local, and involved international, legal limitations, governing entity governmental published policy, each user involved’s preferrings, preferring the limiting of the response in terms of information given to the user by the system in response to the query, unless permission has been granted to the user, or consent given, to the user, to know the specific, or general, information, and, specifically, querying of the system is allowed, barring governmental, professional and personal restriction of proper authorization, role, and proper authorization level
