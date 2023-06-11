@@ -11,7 +11,6 @@
 9. [Reserved Defined System Command Gestures](https://waepoints.github.io/waepointstandards-documentation/standards.html#reserved-defined-system-command-gestures-1)
 * [Focusing Gestures](https://waepoints.github.io/waepointstandards-documentation/standards.html#focusing-gestures-1) 
 * [Apply Gestures](https://waepoints.github.io/waepointstandards-documentation/standards.html#apply-gestures-1) 
-* [Meaning Gestures](https://waepoints.github.io/waepointstandards-documentation/standards.html#meaning-gestures-1) 
 * [Stacking and Unstacking Gestures](https://waepoints.github.io/waepointstandards-documentation/standards.html#stacking-and-unstacking-gestures-1) 
 * [Utility System Command Gestures](https://waepoints.github.io/waepointstandards-documentation/standards.html#utility-system-command-gestures-1)
 11. [Reserved Defined System Commands](https://waepoints.github.io/waepointstandards-documentation/standards.html#reserved-defined-system-commands-1)
@@ -31,6 +30,7 @@
 * [Administrative System Commands](https://waepoints.github.io/waepointstandards-documentation/standards.html#administrative-system-commands-1)
 * [Interfacing System Commands](https://waepoints.github.io/waepointstandards-documentation/standards.html#interfacing-system-commands-1)
 * [Module System Commands](https://waepoints.github.io/waepointstandards-documentation/standards.html#module-system-commands-1)
+* [Processing System Commands](https://waepoints.github.io/waepointstandards-documentation/standards.html#processing-system-commands-1)
 12. [Contacting Requests](https://waepoints.github.io/waepointstandards-documentation/standards.html#contacting-requests-1)
 13. [Incoming Contacting Requests](https://waepoints.github.io/waepointstandards-documentation/standards.html#incoming-contacting-requests-1)
  
