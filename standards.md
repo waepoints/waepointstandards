@@ -37,7 +37,6 @@
  
 > Reading or learning about the numbered headings in the outline’s contents above is sufficient knowledge of the Waepoint System Standards, which are the waepointstandards git repository’s README.md, micro.md, standards.md, and communityprovisions.md files without alteration, redaction, or expansion, through system speech, system command speech, and is considered sufficient informed consent of the provisions described therein to lift the limiting to the lobbies of the endpoint(s), and waepoint(s) for the user, and the Waepoint System Standards stay effecting in entirety for the users which haven’t opted out in entirety despite use of the stop effecting... system command, and other declaring system commands, and, or, system speech, and, or, modules
 
-
 ## Detailed Outline of the Waepoint System Standards
 
 ### System Speech and System Setup Priorities Hierarchy
@@ -48,21 +47,21 @@ Governing Entity Departmental Order and/or Governing Entity Departmental Directi
 
 The Standard Definition of the Waepoint System Standards for the Compatible Device(s) of the main git branch of the waepointstandards git repository from the git origin stored at https://github.com/waepoints/waepointstandards
 
-The Standard Definition of the Waepoint System Standards for the Compatible Device(s) of the git branch the user has said to be trying out most recently of the waepointstandards git repository from the git origin stored at https://github.com/waepoints/waepointstandards
+The Standard Definition of the Waepoint System Standards for the Compatible Device(s) of the git branch the user has most recently described to be trying out of the waepointstandards git repository from the git origin stored at https://github.com/waepoints/waepointstandards
 
 Waepoint System Standards of the main git branch of the waepointstandards git repository from the git origin stored at https://github.com/waepoints/waepointstandards
 
-Waepoint System Standards of the git branch the user has said to be trying out most recently of the waepointstandards git repository from the git origin stored at https://github.com/waepoints/waepointstandards
+Waepoint System Standards of the git branch the user has most recently described to be trying out of the waepointstandards git repository from the git origin stored at https://github.com/waepoints/waepointstandards
 
 Auxiliary Notes
 
 Modules Of The System(s) On The User’s Device
 
-Modules Of The Joined and/or From Outside The User’s System Interacting, Mapping(s), Collection(s), System, or Systems, or Compatible Device, or Compatible Devices, and Users of
+Modules Of The Joined Compatible System(s) to the User's System, and of Users of The Joined Compatible System(s) to the User's System
 
 The Highest Priority Permitted For Module Added Material And Use Of Modules 
 
-The Highest Priority Permitted For Module Added Material And Use Of Modules Of The Joined and/or From Outside The User’s System Interacting, Mapping(s), Collection(s), System, or Systems, or Compatible Device, or Compatible Devices, and User(s) of
+The Highest Priority Permitted For Module Added Material And Use Of Modules Of The Joined Compatible System(s) to the User's System, and of the User(s) of The Joined Compatible System(s) to the User's System
 
 > The above priorities within the system priorities are elevated in priority below the below priorities in terms of the system priorities
 
@@ -72,9 +71,9 @@ Definitions Of The User’s Compatible Device, or Compatible Devices, and, or Co
 
 Provisions Of The User’s System, or Systems, On The User’s Device and Definitions Of The System, or Systems, On The User’s Compatible Device
 
-Definitions Of The Joined and/or From Outside The User’s System Interacting, System, or Systems, or Compatible Device, or Compatible Devices
+Definitions Of The Joined Compatible System(s) to the User's System, and of The User(s) of The Joined Compatible System(s) to the User's System
 
-Provisions Of The Joined and/or From Outside The User’s System Interacting, System, or Systems, or Compatible Device, or Compatible Devices
+Provisions Of The Joined Compatible System(s) to the User's System, and of The User(s) of The Joined Compatible System(s) to the User's System
 
 Defined System Commands and Defined System Command Gestures
 
@@ -82,25 +81,23 @@ Ways and Tenets and Definitions Of The Users’ Interactions On A Zone and Of A 
 
 Ways and Tenets and Definitions Of The Users’ Interactions On A Zone and Of A Zone, or A Group of Zones, or Groups of Zones Of The User’s System Or Compatible Device’s Or Compatible Devices’
 
-Ways and Tenets and Definitions Of The Users’ Interactions On A Zone and Of A Zone, or A Group of Zones, or Groups of Zones, Of The Joined And/Or From Outside The User’s System Interacting, System’s, or Systems’, or Compatible Device’s, or Compatible Devices’ Users and Users Of The Managing Entity
+Ways and Tenets and Definitions Of The Users’ Interactions On A Zone and Of A Zone, or A Group of Zones, or Groups of Zones, of The Zones of Joined Compatible System(s) to the User's System, and of the User(s) on the Zones of The Joined Compatible System(s) to the User's System and of the User(s) on the Zones Of The Managing Entity and of the Zones on the Managing Entity
 
 Confirmed Phrase and Confirmed Phrases Of The Managing Entity’s Owner’s, or Owners’
 
 Confirmed Phrase and Confirmed Phrases Of The User’s System’s, or Systems’ Or Compatible Device’s Or Compatible Devices’ Owner’s, or Owners’
 
-Confirmed Phrase and Confirmed Phrases Of The Users Of The System Or Compatible Device’s Or Compatible Devices’ and The Users Of The Joined and/or From Outside The User’s System Interacting, Compatible Device’s, or Compatible Devices’, or System’s, or Systems’, Users and Users Of The Managing Entity
+Confirmed Phrase and Confirmed Phrases Of The User(s) Of The System Or Compatible Device’s Or Compatible Devices’ and of The User(s) Of The Joined Compatible System(s) to the User's System, and of The User(s) Of The Managing Entity
 
 Commands and Definitions Of The User By The User and Imbuings and Definitions Of Property Of The Managing Entity’s Owner’s, or Owners’
 
 Commands and Definitions Of The User By The User and Imbuings and Definitions Of Property Of The User’s System’s  Or Compatible Device’s Or Compatible Devices’ Owner’s, or Owners’
 
-Commands and Definitions Of The User By The User and Imbuings and Definitions Of Property By Users Of The User’s System and Users Of The Joined And/Or From Outside The User’s System Interacting, Compatible Device, Or Compatible Devices, Or System, Or Systems’ Users and Users Of The Managing Entity
+Commands and Definitions Of The User By The User and Imbuings and Definitions Of Property By The User(s) Of The User’s System and The User(s) Of The Joined Compatible System(s) to the User's System and The User(s) Of The Managing Entity
 
-Comments and Definitions Of The User By Other Users and Definitions Of Some Users Of The System Or Compatible Device’s Or Compatible Devices’
+Comments and Definitions Of The User By Other The User(s) Of The System, and Definitions Of Some Users Of The System Or Compatible Device’s Or Compatible Devices’
 
-Comments and Definitions Of The User By Other Users and Definitions Of Some Users Of The Managing Entity’s Owners
-
-Comments and Definitions Of The User By Other Users and Definitions of Some Users Of The Joined and/or From Outside The User’s System Interacting, Compatible Device’s, Or Compatible Devices’, Or System’s, Or Systems’, Users and Users Of The Managing Entity
+Comments and Definitions Of The User By Other The User(s) Of The Joined Compatible System(s) and By Other The User(s) Of The Managing Entity and Definitions of Some Users Of The Joined Compatible System(s) to the User's System and Some User(s) Of The Managing Entity
 
 ### Preferring Hierarchy
 
@@ -112,11 +109,11 @@ Preferrings Of Owning Entities Of The System
 
 Preferrings Of Approved By The Owner For A Role Other Than User When, Where And How Stipulated By Their Role
 
-Preferrings Of The Users Or User Which Has The Legal Right To Consent For The User When The User Isn’t Cognizant Of The User’s Own Self
+Preferrings Of The Users Or User Which Has or Have The Legal Right To Consent For The User When The User Isn’t Cognizant Of The User’s Own Self
 
 Preferrings Of The User If The User Isn’t An Above Entity
 
-Preferrings Of The Users Or User Which Has The Legal Right To Consent For The User
+Preferrings Of The Users Or User Which Has or Have The Legal Right To Consent For The User
 
 Preferrings Of The Current Family, Current Friends And Current Significant Other Of The User
 
@@ -246,7 +243,7 @@ Designate… as…, Give my role of… to…, Undesignate… as…
 
 ### Module System Commands
 
-Define a module that/which/where... Named/called..., Update the... module... To have..., Rename the... Module to..., Load... Module..., Restore… module…, Stop/Cancel/Unload... Module(s)..., Add a...
+Define a module that/which/where... Named/called..., Update the... module... To have..., Rename the... Module to..., Load... Module..., Restore… module…, Stop/Cancel/Unload... Module(s)..., Add a... From...
 
 ### Processing System Commands
 
@@ -549,7 +546,7 @@ Define a module that/which/where... Named/called..., Update the... module... To 
 **Add a segment… for… on…**, adds a uniquely generated not actual or fictional named segment, or referenced named segment, on the endpoint or waepoint described for the criteria of users described and designates the owner of the endpoint or waepoint as the owner of the segment, if starting a system command given by an owning, managing or governing entity of the device the segment is being added to
 **Cancel… segment(s)… moving… to…**, unstacks the definitions of the system or systems or segments or segment for all systems stacked on’s and the segment’s or segments’ definitions, taking the referenced users to the referenced segment, and performing the hangup, or the leaves, whichever is more appropriate, system command on the remaining users within the segment and joined systems with the segment and each of all the systems in the segment’s joined systems, cancelling all of the waepointstandards or ministandards repository’s activities of still active activities of the segment, reclaiming resources where used by the waepointstandards repository, and unattaching attached devices and stopping extending to what was extended to, if starting a system command given by an owning, managing or governing entity of the device
 **Cancel… segment(s)…**, unstacks the definitions of the system or systems or segments or segment for all systems stacked on’s and the segment’s or segments’ definitions, performing the hangup, or the leaves, whichever is more appropriate, system command on the users within the segment and joined systems with the segment and each of all the systems in the segment’s joined systems, cancelling all of the waepointstandards or ministandards repository’s activities of still active activities of the segment, reclaiming resources where used by the waepointstandards repository, and unattaching attached devices and stopping extending to what was extended to, if starting a system command given by an owning, managing or governing entity of the device
-**Add a...**, And a reference to a system type which has been defined in the Waepoint System Standards, stacks, or requests of the owner of, or an owner of, the managing entity, a definition of the system, correlating to the definition of the system type referenced, on the referenced collection, or the collection which the user is on a mapping of a system of, if there aren’t any other collections referenced, if the user has the proper authorization level and necessary authorization to do so, inheriting from the collection, or waepoint, or endpoint, whichever is closer in the system stack, and sets the owner of the new system to the requester, unless requesting on another user’s behalf then to the other user, if the requester has the proper authorization level and necessary authorization to do so, and if given starting a system command
+**Add a...**, And a reference to a system type, and, or, a reference to a collection of systems, specifying a new collection as a new collection with an optional name for the collection, which has been defined in the Waepoint System Standards, stacks, or requests of the owner of, or an owner of, the managing entity, a definition of the system, correlating to the definition of the system type referenced, on the referenced collection, or the collection which the user is on a mapping of a system of, creating the specified new named, or unnamed, collection if the user specified as such, if the user has the proper authorization level, and necessary, authorization to do so, inheriting from the collection, or waepoint, or endpoint, whichever is closer in the system stack, and sets the owner of the new system to the requester, unless requesting on another user’s behalf, then to the other user, if the requester has the proper authorization level, and necessary, authorization to do so, and if given starting a system command
 **Point the system/lobby/segment to the … hub as the default...**, if starting a system command and if the user has the proper authorization level and necessary authorization to do so, and is authorized to point to the hub, updates the system’s waepoint’s and/or endpoint’s and/or segment’s and/or lobby’s definition to point to the named hub, if the involved waepoint and/or endpoint and/or system and/or lobby and/or segment and hub has the user as an owner and/or administrator of, for what is considered the hub by the waepoint and/or endpoint and/or segment and/or lobby and/or system named
 **Cancel the…**, if starting a system command, if the user has the proper authorization level and necessary authorization to do so, of the referenced system or systems or segments or segment, or waepoints or waepoint or endpoint or endpoints, unstacks the definitions of the compatible device(s) or endpoint(s) or waepoint(s) or system or systems or segments or segment named, and all systems stacked on’s definitions and cancels all of the waepointstandards or ministandards repository’s activities which are still active, and the referenced system(s) and the systems and collections stacked within, reclaiming resources where welcome and helpful, unattaching attached devices, and stopping extending to what was extended to, or if the reference is to a compatible device or are compatible devices which has an identity sharing, extends/extending, quality, function, any number of the listed options, reference to the waepointstandards repository, or the Standard Definition of the waepointstandards repository’s README.md, if an endpoint or endpoints or a waepoint or waepoints are referenced, the From The Micro Definitions… Clean Uninstall The Repository… system command from the current version of the waepointstandards repository on GitHub.com is performed on the referenced compatible device or compatible devices or segments or segment or or endpoint or endpoints or waepoint or waepoints if the waepoint is or waepoints are in the inheritance chain inheriting from the endpoint, and lets the user notice if the cancelling was successful and if so how many of what category were cancelled
 **Set the access policy/policies...**, sets the access policy, or policies, references, if the user is the owner, or a user with an administrator role, of the system(s), and/or segment(s), and/or device(s)
@@ -594,7 +591,7 @@ and meets the criteria specified, if the user is an owner and/or administrator r
 **Load/Start/Reload... module…**, With a name and location of a repository, or an in-network file, or a module description, accessible to the system owned by the user, or mapping which isn’t a lobby, or users referenced, which still approve of the user loading the described module for the users referenced also are one of the, or are the user(s) which still approves of the user loading the module for the user(s) referenced, or are the user, and the user is considered the referenced user if a reference isn’t given with the system command, or a mapping which isn’t a lobby of a, or a, system owned by the user giving the command, approves of the user loading the module(s) to apply the module’s, or modules’, contents, while legal to, and if the applying is in legal ways, and applying legally, in the user’s, or users’, or mapping’s which isn’t a lobby, or system’s, whichever of those was referenced with the given command’s, interactions with the system, and/or the user, and/or the users, and/or another system, and/or other systems, but modules of other users, and other systems, are lower priority than the user’s own system’s, and/or user’s own system’s mapping’s, and the user’s own self’s, modules
 **Restore… module…**, Restore the module contents of the referenced or described version or updates the module based on the criteria described for the module referenced, and if the restored description is legal in wording, and phrasing
 **Stop/Cancel/Unload… module(s)…**, Stops the application of the module’s, or modules’, contents in the interaction(s) with the system,  and/or the user, and/or the users, and/or another system, and/or other systems, and unloads the described module(s) for the right user(s), mapping(s), system(s), which have the module(s) described loaded, or the module(s) which the user has loaded at the time the system command is given for the system, or for the mapping the user is on, or for the user, if modules aren’t, or a module isn’t, described, if is legal, safe, and healthily interacting to do so for the specific stopping the application and specific unloading described in the system command description for the specific module(s) unloading and specific module’s, or modules’, contents which would be stopping the application in interaction(s) with the listed in the system command description here, in respects to the specific given system command being performed
-**Add a...**, And a reference to a system type which has been defined in a loaded module which the user is interacting with, stacks, or requests of the owner of, or an owner of, the managing entity, a definition of the system correlating to the definition of the system type on the, or the referenced, system in the, or the referenced, collection of systems, and or or, the, or the referenced, mappings of the user’s, or the referenced, system, or the, or the, or the referenced, user’s plateau in the, or the referenced, segment, if the user has the proper authorization level and necessary authorization to do so, inheriting from the system, or mapping, or segment, or waepoint, or endpoint, whichever is closer in, and sets the owner of the new system to the requester, unless requesting on another user’s behalf then to the other user, if the requester has the proper authorization level and necessary authorization to do so, if starting a system command
+**Add a... from...**, And a reference to a system type which has been defined in a referenced module description, performing the load... module... system command on the module description in the collection-level scope, which the user is interacting with, stacks, or requests of the owner of, or an owner of, the managing entity, a definition of the system correlating to the definition of the system type on the, or the referenced, system in the, or the referenced, collection of systems, or the referenced, system, if the user has the proper authorization level and necessary authorization to do so, inheriting from the system, or mapping, or segment, or waepoint, or endpoint, whichever is closer in, and sets the owner of the new system to the requester, unless requesting on another user’s behalf then to the other user, if the requester has the proper authorization level and necessary authorization to do so, if starting a system command
 
 ### Processing System Commands
 
