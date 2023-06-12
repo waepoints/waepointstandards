@@ -164,6 +164,10 @@ I’m going home/I’m goin’ home/I’m going to my home/I’m goin’ to my h
 
 Generate a new name…, Deshelve…, ...Ask… … Where…/… Where’s…/… Nanomap…, I’m going to my home zone…, Share… with…, Store… in… inventory…
 
+### Securelinking System Commands
+
+Start securelinking… with…, Stop securelinking… with…, Conduct securelinking… with… for…, Securelinking statuses…
+
 ### First Aid System Commands
 
 ... R and R..., ... Bring... to where.. already at..., … Restore…, … Modify me…, … Revive…, … Heal…

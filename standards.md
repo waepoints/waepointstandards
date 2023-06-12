@@ -23,6 +23,7 @@
 * [Communication System Commands](https://waepoints.github.io/waepointstandards-documentation/standards.html#communication-system-commands-1) 
 * [Sets System Commands](https://waepoints.github.io/waepointstandards-documentation/standards.html#sets-system-commands-1)
 * [Utility System Commands](https://waepoints.github.io/waepointstandards-documentation/standards.html#utility-system-commands-1)
+* [Securelinking System Commands](https://waepoints.github.io/waepointstandards-documentation/standards.html#securelinking-system-commands-1)
 * [Lobby-Bound System Commands](https://waepoints.github.io/waepointstandards-documentation/standards.html#lobby-bound-system-commands-1)
 * [Zone-Bound System Commands](https://waepoints.github.io/waepointstandards-documentation/standards.html#zone-bound-system-commands-1)
 * [Clustering and Extending System Commands](https://waepoints.github.io/waepointstandards-documentation/standards.html#clustering-and-extending-system-commands-1)
@@ -202,6 +203,10 @@ I’m going home/I’m goin’ home/I’m going to my home/I’m goin’ to my h
 ### Utility System Commands
 
 Generate a new name…, Deshelve…, ...Ask… … Where…/… Where’s…/… Nanomap…, I’m going to my home zone…, Share… with…, Store… in… inventory…
+
+### Securelinking System Commands
+
+Start securelinking… with…, Stop securelinking… with…, Conduct securelinking… with… for…, Securelinking statuses…
 
 ### First Aid System Commands
 
@@ -434,6 +439,13 @@ Define a module that/which/where... Named/called..., Update the... module... To 
 **… Where… …/… Where’s…/… Nanomap…**, respecting personal, professional, political, organizational, romantic, platonic, erotic, passionate, informational, secret and governmental privacy relative to the user’s authorization level, role, and authorization(s), and permission(s), lets the user notice either a Waepoint System Standards mapping, system and endpoint, or waepoint, location triplet of the queried thing which is on the system, or if a place is queried about, lets the user notice the distance to in decimal miles/feet, or kilometers/meters if the user’s preferrings dictate, and if comfortable, safe and healthy to do so, have the user comfortably point their most comfortable, healthy and safe body part in the direction of the place queried about, at a safe, healthy, comfortable, and appropriate speed, if the user’s preferrings permit and allow for, otherwise, lets the user notice the compass direction and tells relative to the direction of where they are facing what direction they need to go in to reach the destination, when given in a system command
 **Share… with/to…**, when given in a system command, both in an offer for the sharing of previously interacted with system speech by a user to another user followed by an approving response by the user which was offered within a minute without the offer to share being rescinded by the offering user does what the share & gestures does for the offered user from the offering user, within the limits of the user’s, and users’ authorization(s), authorization level(s), and role(s), and permission(s) to share, also licensing, and copyrights, and governmental regulation of the governing entities and users involved directly with the Share… with/to… system command given
 **Store… in… inventory…**, when given in a system command, unstacks from the stacking or effecting target or stores anew the referenced system speech, in the user’s inventory, to stack/track back from, unstack from or use the clear system speech… system command or clean uninstall the repository on/from… system command on, at a later time
+
+### Securelinking System Commands
+
+**Start securelinking… with…**, when given in a system command, starts a referenced device, if the referenced endpoint, or the referenced waepoint, or the referenced device will work to be securelinking with, the endpoint, or waepoint, the user is in contact with, or another referenced device, starts conducting securelinking between the two
+**Stop securelinking… with…**, when given in a system command, starts a referenced device, if the referenced endpoint, or the referenced waepoint, or the referenced device will work to be securelinking with, the endpoint, or waepoint, the user is in contact with, or another referenced device, stops conducting securelinking between the two, if securelinking between the two is already being conducted when the system command is given
+**Conduct securelinking… with… for…**, when given in a system command, starts conducting securelinking between the referenced endpoint, or the referenced waepoint, or the referenced device, if the device will work to be securelinking with, another referenced device which will work to be securelinking with the first referenced device, or the endpoint, or waepoint, the user is being in contact with if another device isn’t referenced in addition to the first, with an exact purpose described for the securelinking transaction between the device(s), and, or, the endpoint(s), and, or, the waepoint(s), referenced, and, or, the user is being in contact with, if supported and compatible, for the duration necessary to accomplish the securelinking transaction, then stops conducting securelinking between the two, letting the user notice the status updates wanted by, and of interest to, the user, unless the securelinking transaction stops conducting securelinking early due to an error, or due to the Stop securelinking… with… system command being given in reference to one of the device(s), and, or, endpoint(s), and, or, waepoint(s), referenced, and, or, the user is being in contact with
+**Securelinking statuses…**, when given in a system command, let’s the user notice which device(s), endpoint(s), waepoint(s), the user is the owner of, which is in-network, and which has network connectivity, is conducting securelinking activities, and if any of the activities are of interest to the user without revealing confidential personal information and without violating protected privacy laws, and limiting information given by the most pertinent user’s, or most pertinent users’, to the information’s individual, and respective, personal information sharing, and privacy of personal information, specific preferrings for relevant information to the specific Securelinking statuses… system command given, and being performed
 
 ### First Aid System Commands
 
