@@ -110,7 +110,7 @@ Commands, Comments, Imbuing, Provisions, Tenets, Ways, Confirmed Phrase and Conf
 
 ### System Command Speech
 
-System Command System Speech Focus, System Command Name(s), System Command Descriptions, System Command Declarations, System Command Catalysts, System Command Interactions
+System Command System Speech Focus, System Command Name(s), System Command Descriptions, System Command Syntax, System Command Declarations, System Command Catalysts, System Command Interactions
 
 ### System Setup
 
