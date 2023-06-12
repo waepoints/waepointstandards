@@ -30,7 +30,7 @@ Provisions Of The Managing Entity, and Definitions Of The Managing Entity
 
 Definitions Of The User’s Compatible Device, or Compatible Devices, and, or Compatible Software
 
-Provisions Of The User’s System, or Systems, On The User’s Device and Definitions Of The System, or Systems, On The User’s Compatible Device
+Provisions Of The User’s System, or Systems, On The User’s Device, and Definitions Of The System, or Systems, On The User’s Compatible Device
 
 Definitions Of The Joined Compatible System(s) to the User's System, and of The User(s) of The Joined Compatible System(s) to the User's System
 
@@ -38,11 +38,11 @@ Provisions Of The Joined Compatible System(s) to the User's System, and of The U
 
 Defined System Commands, and Defined System Command Gestures
 
-Ways, and Tenets, and Definitions Of The Users’ Interactions On A Zone and Of A Zone, or A Group of Zones, or Groups of Zones Of The Managing Entity
+Ways, and Tenets, and Definitions Of The Users’ Interactions On A Zone, and Of A Zone, or A Group of Zones, or Groups of Zones Of The Managing Entity
 
-Ways, and Tenets, and Definitions Of The Users’ Interactions On A Zone and Of A Zone, or A Group of Zones, or Groups of Zones Of The User’s System, Or Compatible Device’s, Or Compatible Devices’
+Ways, and Tenets, and Definitions Of The Users’ Interactions On A Zone, and Of A Zone, or A Group of Zones, or Groups of Zones Of The User’s System, Or Compatible Device’s, Or Compatible Devices’
 
-Ways, and Tenets, and Definitions Of The Users’ Interactions On A Zone and Of A Zone, or A Group of Zones, or Groups of Zones, of The Zones of Joined Compatible System(s) to the User's System, and of the User(s) on the Zones of The Joined Compatible System(s) to the User's System, and of the User(s) on the Zones Of The Managing Entity, and of the Zones on the Managing Entity
+Ways, and Tenets, and Definitions Of The Users’ Interactions On A Zone, and Of A Zone, or A Group of Zones, or Groups of Zones, of The Zones of Joined Compatible System(s) to the User's System, and of the User(s) on the Zones of The Joined Compatible System(s) to the User's System, and of the User(s) on the Zones Of The Managing Entity, and of the Zones on the Managing Entity
 
 Confirmed Phrase, and Confirmed Phrases Of The Managing Entity’s Owner’s, or Owners’
 
@@ -50,11 +50,11 @@ Confirmed Phrase, and Confirmed Phrases Of The User’s System’s, or Systems�
 
 Confirmed Phrase, and Confirmed Phrases Of The User(s) Of The System, Or Compatible Device’s, Or Compatible Devices’, and of The User(s) Of The Joined Compatible System(s) to the User's System, and of The User(s) Of The Managing Entity
 
-Commands and Definitions Of The User, By The User, and Imbuings, and Definitions Of Property Of The Managing Entity’s Owner’s, or Owners’
+Commands, and Definitions Of The User, By The User, and Imbuings, and Definitions Of Property Of The Managing Entity’s Owner’s, or Owners’
 
-Commands and Definitions Of The User, By The User, and Imbuings and Definitions Of Property Of The User’s System’s, Or Compatible Device’s, Or Compatible Devices’ Owner’s, or Owners’
+Commands, and Definitions Of The User, By The User, and Imbuings and Definitions Of Property Of The User’s System’s, Or Compatible Device’s, Or Compatible Devices’ Owner’s, or Owners’
 
-Commands and Definitions Of The User, By The User, and Imbuings and Definitions Of Property By The User(s) Of The User’s System, and The User(s) Of The Joined Compatible System(s) to the User’s System, and The User(s) Of The Managing Entity
+Commands, and Definitions Of The User, By The User, and Imbuings and Definitions Of Property By The User(s) Of The User’s System, and The User(s) Of The Joined Compatible System(s) to the User’s System, and The User(s) Of The Managing Entity
 
 Comments, and Definitions Of The User By Other The User(s) Of The System, and Definitions Of Some Users Of The System, Or Compatible Device’s, Or Compatible Devices’
 
