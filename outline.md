@@ -104,7 +104,7 @@ Stacked System or Independent System or Device
 
 ### System Speech and System Speech Categories
 
-Commands, Comments, Imbuing, Provisions, Tenets, Ways, Confirmed Phrase and Confirmed Phrases, Sets
+Chatter, Commands, Comments, Imbuing, Provisions, Tenets, Ways, Confirmed Phrase and Confirmed Phrases, Sets
 
 ### System Command Speech
 
