@@ -1,6 +1,6 @@
 # Waepoint System Standards
 
-## Outline of the Waepoint System Standards Document Sections
+## Outline of the Waepoint System Standards Document Sections and Titles
 
 1. [System Speech and System Setup Priorities Hierarchy](https://waepoints.github.io/waepointstandards-documentation/standards.html#system-speech-and-system-setup-priorities-hierarchy)
 2. [Preferring Hierarchy](https://waepoints.github.io/waepointstandards-documentation/standards.html#preferring-hierarchy)
@@ -361,7 +361,9 @@ Define a module that/which/where... Named/called..., Update the... module... To 
 
 ## Reserved Defined System Command Gestures
 
-> All system command gestures don’t interact with any to all secured by the system(s) automatically and/or through securelinking
+> All system command gestures don’t interact with any to all secured by the system(s) automatically and/or through securelinking without having a specific intention applied
+
+> The bolded titles are the named description titles of the System Command Gestures
 
 ### Focusing Gestures
 
