@@ -4,25 +4,29 @@
 
 Governing Entity Governmental Published Policy
 
-Governing Entity Departmental Order and/or Governing Entity Departmental Directive
+Governing Entity Departmental Order, and/or Governing Entity Departmental Directive
 
 The Standard Definition of the Waepoint System Standards for the Compatible Device(s) of the main git branch of the waepointstandards git repository from the git origin stored at the address https://github.com/waepoints/waepointstandards
 
-The Standard Definition of the Waepoint System Standards for the Compatible Device(s) of the git branch the user has most recently described to be trying out of the waepointstandards git repository from the git origin stored at the address https://github.com/waepoints/waepointstandards
+The Standard Definition of the Waepoint System Standards for the Compatible Device(s) of the git branch the user has most recently described to be trying out of the waepointstandards git repository from the git origin stored at the address https://github.com/waepoints/waepointstandards, if different than the main git branch of the git repository stored at the specific listed address
+
+The Standard Definition of the Waepoint System Standards for the Compatible Device(s) of the git branch the user has most recently described to be trying out of the waepointstandards git repository from another git origin
 
 Waepoint System Standards of the main git branch of the waepointstandards git repository from the git origin stored at the address https://github.com/waepoints/waepointstandards
 
-Waepoint System Standards of the git branch the user has most recently described to be trying out of the waepointstandards git repository from the git origin stored at the address https://github.com/waepoints/waepointstandards
+Waepoint System Standards of the git branch the user has most recently described to be trying out of the waepointstandards git repository from the git origin stored at the address https://github.com/waepoints/waepointstandards, if different than the main git branch of the git repository stored at the specific listed address 
+
+Waepoint System Standards of the git branch the user has most recently described to be trying out of the waepointstandards git repository from another git origin
 
 Auxiliary Notes
 
 Modules Of The System(s) On The User’s Device
 
-Modules Of The Joined Compatible System(s) to the User's System, and of Users of The Joined Compatible System(s) to the User's System
+Modules Of The Joined Compatible System(s) to the User’s System, and of Users of The Joined Compatible System(s) to the User’s System
 
 The Highest Priority Permitted For Module Added Material, and The Use Of The Loaded Modules of the System(s) on the User’s Device
 
-The Highest Priority Permitted For Module Added Material, and The Use Of The Loaded Modules Of The Joined Compatible System(s) to the User's System, and of the User(s) of The Joined Compatible System(s) to the User's System
+The Highest Priority Permitted For Module Added Material, and The Use Of The Loaded Modules Of The Joined Compatible System(s) to the User’s System, and of the User(s) of The Joined Compatible System(s) to the User’s System
 
 > The above priorities within the system priorities are elevated in priority below the below priorities in terms of the system priorities
 
@@ -32,9 +36,9 @@ Definitions Of The User’s Compatible Device, or Compatible Devices, and, or Co
 
 Provisions Of The User’s System, or Systems, On The User’s Device, and Definitions Of The System, or Systems, On The User’s Compatible Device
 
-Definitions Of The Joined Compatible System(s) to the User's System, and of The User(s) of The Joined Compatible System(s) to the User's System
+Definitions Of The Joined Compatible System(s) to the User’s System, and of The User(s) of The Joined Compatible System(s) to the User’s System
 
-Provisions Of The Joined Compatible System(s) to the User's System, and of The User(s) of The Joined Compatible System(s) to the User's System
+Provisions Of The Joined Compatible System(s) to the User’s System, and of The User(s) of The Joined Compatible System(s) to the User’s System
 
 Defined System Commands, and Defined System Command Gestures
 
@@ -42,13 +46,13 @@ Ways, and Tenets, and Definitions Of The Users’ Interactions On A Zone, and Of
 
 Ways, and Tenets, and Definitions Of The Users’ Interactions On A Zone, and Of A Zone, or A Group of Zones, or Groups of Zones Of The User’s System, Or Compatible Device’s, Or Compatible Devices’
 
-Ways, and Tenets, and Definitions Of The Users’ Interactions On A Zone, and Of A Zone, or A Group of Zones, or Groups of Zones, of The Zones of Joined Compatible System(s) to the User's System, and of the User(s) on the Zones of The Joined Compatible System(s) to the User's System, and of the User(s) on the Zones Of The Managing Entity, and of the Zones on the Managing Entity
+Ways, and Tenets, and Definitions Of The Users’ Interactions On A Zone, and Of A Zone, or A Group of Zones, or Groups of Zones, of The Zones of Joined Compatible System(s) to the User’s System, and of the User(s) on the Zones of The Joined Compatible System(s) to the User’s System, and of the User(s) on the Zones Of The Managing Entity, and of the Zones on the Managing Entity
 
 Confirmed Phrase, and Confirmed Phrases Of The Managing Entity’s Owner’s, or Owners’
 
 Confirmed Phrase, and Confirmed Phrases Of The User’s System’s, or Systems’, Or Compatible Device’s, Or Compatible Devices’ Owner’s, or Owners’
 
-Confirmed Phrase, and Confirmed Phrases Of The User(s) Of The System, Or Compatible Device’s, Or Compatible Devices’, and of The User(s) Of The Joined Compatible System(s) to the User's System, and of The User(s) Of The Managing Entity
+Confirmed Phrase, and Confirmed Phrases Of The User(s) Of The System, Or Compatible Device’s, Or Compatible Devices’, and of The User(s) Of The Joined Compatible System(s) to the User’s System, and of The User(s) Of The Managing Entity
 
 Commands, and Definitions Of The User, By The User, and Imbuings, and Definitions Of Property Of The Managing Entity’s Owner’s, or Owners’
 
@@ -164,7 +168,7 @@ Generate a new name…, Deshelve…, ...Ask… … Where…/… Where’s…/…
 
 ### First Aid System Commands
 
-... R and R..., ... Bring... to where.. already at..., … Standard Modify…, … Standard Revive…, … Standard Heal…
+... R and R..., ... Bring... to where.. already at...,  … Standard Modify…, … Standard Revive…, … Standard Heal…
 
 ### Permanence System Commands
 
@@ -172,7 +176,7 @@ Generate a new name…, Deshelve…, ...Ask… … Where…/… Where’s…/…
 
 ### Declaring System Commands
 
-... (Re)Focus..., (Re)Perform/(Re)Do the system command(s)..., ... (Re)Apply..., … (Re)Secure…, … Free…, … (Re)Ward…, … (Re)Allward..., … (Re)Lock…, … Modiphize/Modiphaze… effects… to/with/as/is/are… modiphases…, … Modiphizing/Modiphazing the effects of the success…, … (Re)Disanchor..., … Cancel the anchoring..., (Re)Do/(Re)Perform The Essential Anchoring For..., …(Re)Reset… back to reality…, … I (Re)confirm…, …(Re)Join… the/those… phrases…, … (Re)Separate... the/those/that... Phrase/phrases... Into..., … Change… to say…, … Amend… With…, … Prepend… To…, … Add… that… to…, … Remove… from…, … (Re)Stack..., … Unstack…, … Unstack… and leave…, … (Re)Effect..., … Stop effecting…, … Stop effecting and unstack..., … Stop effecting… and leave…, … Stop effecting and unstack… and leave…, … Clean up/Clear/Lose…, … Clean up/Clear/Lose… and adjust…, ... Refactor...
+... (Re)Focus..., (Re)Perform/(Re)Do the system command(s)..., ... (Re)Apply..., … (Re)Secure…, … Free…, … (Re)Ward…, … (Re)Allward..., … (Re)Lock…, …(Re)Reset… back to reality…, … I (Re)confirm…, …(Re)Join… the/those… phrases…, … (Re)Separate... the/those/that... Phrase/phrases... Into..., … Change… to say…, … Amend… With…, … Prepend… To…, … Add… that… to…, … Remove… from…, … (Re)Stack..., … Unstack…, … Unstack… and leave…, … (Re)Effect..., … Stop effecting…, … Stop effecting and unstack..., … Stop effecting… and leave…, … Stop effecting and unstack… and leave…, … Clean up/Clear/Lose…, … Clean up/Clear/Lose… and adjust…, ... Refactor...
 
 ### Sets System Commands
 
