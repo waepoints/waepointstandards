@@ -172,7 +172,7 @@ Generate a new name…, Deshelve…, ...Ask… … Where…/… Where’s…/…
 
 ### Permanence System Commands
 
-… Modiphize/Modiphaze… effects… to/with/as/is/are… modiphases…, … Modiphizing/Modiphazing the effects of the success…, … (Re)Disanchor..., … Cancel the anchoring..., (Re)Do/(Re)Perform The Essential Anchoring For...,
+… Modiphize/Modiphaze… effects… to/with/as/is/are… modiphases…, … Modiphizing/Modiphazing the effects of the success…, … Do/perform the… system command(s) (for)…  with/as modiphases… (if they’ll succeed/if they’ll be successful)…, … (Re)Disanchor..., … Cancel the anchoring..., (Re)Do/(Re)Perform The Essential Anchoring For...,
 
 ### Declaring System Commands
 
