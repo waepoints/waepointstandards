@@ -168,15 +168,15 @@ Generate a new name…, Deshelve…, ...Ask… … Where…/… Where’s…/…
 
 ### First Aid System Commands
 
-... R and R..., ... Bring... to where.. already at...,  … Standard Modify…, … Standard Revive…, … Standard Heal…
+... R and R..., ... Bring... to where.. already at...,  … Standard Restore…, … Standard Modify…, … Standard Revive…, … Standard Heal…
 
 ### Permanence System Commands
 
-… Modiphize/Modiphaze… effects… to/with/as/is/are… modiphases…, … Modiphizing/Modiphazing the effects of the success…, … Do/perform the… system command(s) (for)…  with/as modiphases… (if they’ll succeed/if they’ll be successful)…, … (Re)Disanchor..., … Cancel the anchoring..., (Re)Do/(Re)Perform The Essential Anchoring For...,
+… Modiphize/Modiphaze… effects… to/with/as/is/are… modiphases…, … Modiphizing/Modiphazing the effects of the success…, … Do/perform the… system command(s) (for)…  with/as modiphases/(an) actual change(s)/(a) real change(s)… (if they’ll succeed/if they’ll be successful)…, … (Re)Disanchor..., … Cancel the anchoring..., (Re)Do/(Re)Perform The Essential Anchoring For...,
 
 ### Declaring System Commands
 
-... (Re)Focus..., (Re)Perform/(Re)Do the system command(s)..., ... (Re)Apply..., … (Re)Secure…, … Free…, … (Re)Ward…, … (Re)Allward..., … (Re)Lock…, …(Re)Reset… back to reality…, … I (Re)confirm…, …(Re)Join… the/those… phrases…, … (Re)Separate... the/those/that... Phrase/phrases... Into..., … Change… to say…, … Amend… With…, … Prepend… To…, … Add… that… to…, … Remove… from…, … (Re)Stack..., … Unstack…, … Unstack… and leave…, … (Re)Effect..., … Stop effecting…, … Stop effecting and unstack..., … Stop effecting… and leave…, … Stop effecting and unstack… and leave…, … Clean up/Clear/Lose…, … Clean up/Clear/Lose… and adjust…, ... Refactor...
+... (Re)Focus..., (Re)Perform/(Re)Do the system command(s)... with effects…, ... (Re)Apply..., … (Re)Secure…, … Free…, … (Re)Ward…, … (Re)Allward..., … (Re)Lock…, …(Re)Reset… back to reality…, … I (Re)confirm…, …(Re)Join… the/those… phrases…, … (Re)Separate... the/those/that... Phrase/phrases... Into..., … Change… to say…, … Amend… With…, … Prepend… To…, … Add… that… to…, … Remove… from…, … (Re)Stack..., … Unstack…, … Unstack… and leave…, … (Re)Effect..., … Stop effecting…, … Stop effecting and unstack..., … Stop effecting… and leave…, … Stop effecting and unstack… and leave…, … Clean up/Clear/Lose…, … Clean up/Clear/Lose… and adjust…, ... Refactor...
 
 ### Sets System Commands
 
