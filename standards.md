@@ -32,7 +32,6 @@
 * [Setup System Commands](https://waepoints.github.io/waepointstandards-documentation/standards.html#setup-system-commands)
 * [Administrative System Commands](https://waepoints.github.io/waepointstandards-documentation/standards.html#administrative-system-commands-1)
 * [Interfacing System Commands](https://waepoints.github.io/waepointstandards-documentation/standards.html#interfacing-system-commands-1)
-* [Module System Commands](https://waepoints.github.io/waepointstandards-documentation/standards.html#module-system-commands-1)
 * [Processing System Commands](https://waepoints.github.io/waepointstandards-documentation/standards.html#processing-system-commands-1)
 12. [Contacting Requests](https://waepoints.github.io/waepointstandards-documentation/standards.html#contacting-requests-1)
 13. [Incoming Contacting Requests](https://waepoints.github.io/waepointstandards-documentation/standards.html#incoming-contacting-requests-1)
