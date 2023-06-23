@@ -6,7 +6,19 @@ All the people I give permission to, while I give permission to, can do whatever
 
 The So, and So, Stop, System Commands:
 
-When I say so, whatever task I say to do is done by performing the task, with whatever tools and in-network technology, I’m authorized to, have whatever permissions granted to, or consent given to, or own, or is public technology which like is approved of using with the in-network devices, specifically that of the strictest policy, and the network policy, but like staying within my authorizations like staying within all types of authorization, permission, consent, relevant given to me, stuff like my roles, and socioeconomic status, and social network, and whoever’s down like without having to ask but independently prefers to in respects to specifically myself asking for the task to be done, also like I don’t have to give a system command confirmation if I don’t want to but like the task won’t be scheduled to be performed if I change my choice to have the task performed if the task hasn’t been performed yet, and I aren’t down anymore for the task to be performed, also when I say so stop and like describe some tasks I have like done a system command for the performance of the task(s), and, or, a system command gesture for the performance of the task(s),
+When I say so, whatever task I say to do is done by performing the task, with whatever tools and in-network technology, I’m authorized to, have whatever permissions granted to, or consent given to, or own, or is public technology which like is approved of using with the in-network devices, specifically that of the strictest policy, and the network policy, but like staying within my authorizations like staying within all types of authorization, permission, consent, relevant given to me, stuff like my roles, and socioeconomic status, and social network, and whoever’s down like without having to ask but independently prefers to in respects to specifically myself asking for the task to be done, also like I don’t have to give a system command confirmation if I don’t want to but like the task won’t be scheduled to be performed if I change my choice to have the task performed if the task hasn’t been performed yet, and I aren’t down anymore for the task to be performed, also when I say so stop and like describe some tasks I have like done a system command for the performance of the task(s), and, or, a system command gesture for the performance of the task(s)
+
+The Magic Snap System Command Gesture:
+
+Performed, or given, as the words, magic snap, with a system command confirmation, performs the preceding system command(s), or system command gesture(s), within the limits of the authorization(s), authorization level(s), role(s), permission(s) granted, consent given, to, and of, the user(s) which are down for the task(s) associated with the system command(s), or system command gesture(s), to be performed with the specific parameters, such as the user(s) which are chosen as the fulfillment of the target(s) parameter of the system command(s), or system command gesture(s)
+
+Superuser System Commands Healing:
+
+Healing by way of the magic clap and describing so, always stays within governmental regulation, painless, comfortable, healthy, legal, and successful or I notice why wouldn’t be completed successfully, and does the healing in like the shortest practical doable amount of the time which is at least a single second, and I like get notified when a system command starts healing something or someone and like how long that will take and if completes or fails
+
+Superuser Noticing:
+
+I notice the things the system commands and system command gestures want me to notice by telling myself out of my own mouth what I was going to notice that the system command or system command gesture wants me to notice
 
 # README.md Document Provisions of the Waepoint System Standards
 
@@ -97,7 +109,7 @@ The securelinking instances follow as protocol of, and purpose detailed in, resp
 
 # License
 
-Waepoint System Standards v129.496
+Waepoint System Standards v129.526
 
 The version of the files with the files’ contents matching with the files’ contents in the files from the waepointstandards git repository’s newest git commit to the git branch I’ve independently most recently described independently, by my own self’s self, to be trying out, with the option to be trying out a specific Waepoint System Standards version number’s of a standardized Waepoint System Standards version’s files’ files’ contents of the Waepoint System Standards, all of the files in specific, except the README.md file, except the first content filled line of the License section of the README.md file which contains the Waepoint System Standards version number, defaulting to the main git branch, at the git origin stored in the git origin of the waepointstandards git repository at https://github.com/waepoints/waepointstandards, which meet the version approving criteria’s criteria set forth in the Standard Definition of the Waepoint System Standards for the Compatible Device(s) section’s contents of the > indented paragraph in the section, specifically the paragraph with the > sign immediately preceding from the section with a title starting with the words, The Standard Definition, from the README.md of the newest git commit to the git branch I’ve independently most recently described independently to be trying out, with the option to be trying out a specific Waepoint System Standards version number’s of a standardized Waepoint System Standards version’s files’ files’ contents of the Waepoint System Standards, all of the files in specific, except the README.md file, except the first content filled line of the License section of the README.md file which contains the Waepoint System Standards version number, defaulting to the main git branch, of the waepointstandards repository on GitHub.com’s first content filled line’s the letter v, then a decimal number, in the License section’s current version which matches the criteria set forth in The Standard Definition of the Waepoint System Standards for the Compatible Device(s), with files’ contents matching with the files’ contents of the git repository stored in the git origin of the waepointstandards git repository at https://github.com/waepoints/waepointstandards, will be named in future uses as the standardized Waepoint System Standards version
 
@@ -112,4 +124,3 @@ Eclipse Public License - v 2.0
 Copyright (c) 2023 - 2023 by Patrick Winston Blaine, et al.
 
 # End of README Document Provisions of the Waepoint System Standards
-
