@@ -1,3 +1,5 @@
+# Detailed Outline Pertaining To The Waepoint System Standards Document
+
 ## Detailed Outline of the Waepoint System Standards
 
 ### System Speech and System Setup Priorities Hierarchy
@@ -221,3 +223,7 @@ Define a module that/which/where... Named/called..., Update the... module... To 
 ### Contacting & Joining Requests
 
 ### Incoming Contacting & Joining Requests
+
+## End of the Detailed Outline of the Waepoint System Standards
+
+# End Of Detailed Outline Pertaining To The Waepoint System Standards Document
