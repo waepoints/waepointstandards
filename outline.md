@@ -22,14 +22,6 @@ Waepoint System Standards of the git branch the user has most recently described
 
 Auxiliary Notes
 
-Modules Of The System(s) On The User’s Device
-
-Modules Of The Joined Compatible System(s) to the User’s System, and of Users of The Joined Compatible System(s) to the User’s System
-
-The Highest Priority Permitted For Module Added Material, and The Use Of The Loaded Modules of the System(s) on the User’s Device
-
-The Highest Priority Permitted For Module Added Material, and The Use Of The Loaded Modules Of The Joined Compatible System(s) to the User’s System, and of the User(s) of The Joined Compatible System(s) to the User’s System
-
 > The above priorities within the system priorities are elevated in priority below the below priorities in terms of the system priorities
 
 Provisions Of The Managing Entity, and Definitions Of The Managing Entity
@@ -118,7 +110,7 @@ System Command System Speech Focus, System Command Name(s), System Command Descr
 
 ### System Setup
 
-Auxiliary Notes, Effects, Modiphs, Modiphizing/Modiphazing, Modiphating, Modiphading, Modiphases, Parallels, Gateways, Modules, Module Descriptions, System, System Stack, Independent System, Travel, Protocols, Inheriting, Managing Entity, Preferrings, Inventory, Hub Provisions, User, Owner, Administrator, Moderator, Endpoint, The Grand Lobby, Independent Lobby, Joining, Waepoint, Hub, Definition Of The Endpoint, or Waepoint, or Independent System, or Stacked System, Confirmation, Messaging Confirmation, System Command Confirmation, Abandon, Shelving, Changelog, Activity, Mandates, Affect, History, Securing, Securelinking, Freeing, Locking, Warding, Free, Anchoring, Stacking, Effecting, Mappings, Relaypoint, Resource, Clustering, Extending, Modes, Scopes
+Auxiliary Notes, Effects, Modiphs, Modiphizing/Modiphazing, Modiphating, Modiphading, Modiphases, Parallels, Gateways, System, System Stack, Independent System, Travel, Protocols, Inheriting, Managing Entity, Preferrings, Inventory, Hub Provisions, User, Owner, Administrator, Moderator, Endpoint, The Grand Lobby, Independent Lobby, Joining, Waepoint, Hub, Definition Of The Endpoint, or Waepoint, or Independent System, or Stacked System, Confirmation, Messaging Confirmation, System Command Confirmation, Abandon, Shelving, Changelog, Activity, Mandates, Affect, History, Securing, Securelinking, Freeing, Locking, Warding, Free, Anchoring, Stacking, Effecting, Mappings, Relaypoint, Resource, Clustering, Extending, Modes, Scopes
 
 ### System Mappings
 
@@ -202,7 +194,7 @@ Start securelinking… with…, Stop securelinking… with…, Conduct securelin
 
 ### Setup System Commands
 
-... Setup... As A Waepoint?, ... Setup... As An Independent Lobby?, Change the segment of... For... To..., Add a segment… for…, Add a segment… for… on…, Cancel… segment(s)… moving… to…, Cancel… segment(s)…, Add a…, Point the system/lobby/segment to the … hub as the default..., Cancel the…, Set the access policy/policies..., Allow access to/on/for… for…, Restrict access to/on/for… for…, Set... ...’s protocol for..., Adjust... ...’s protocol for..., Cancel... ...’s protocol for..., Set the top-level inherited provisions for… to be…, Set the top-level private provisions for… to be…, Adjust the top-level inherited provisions of… so/so that/to be/to…, Adjust the top-level private provisions of… so/so that/to be/to…, From the micro definition/definitions…
+... Setup... As A Waepoint?, ... Setup... As An Independent Lobby?, Change the segment of... For... To..., Add a segment… for…, Add a segment… for… on…, Cancel… segment(s)… moving… to…, Cancel… segment(s)…, Add a…, Point the system/lobby/segment to the … hub as the default..., Cancel the…, Set the access policy/policies..., Allow access to/on/for… for…, Restrict access to/on/for… for…, Set... ...’s protocol for..., Adjust... ...’s protocol for..., Cancel... ...’s protocol for..., Set the top-level inherited provisions for… to be…, Set the top-level private provisions for… to be…, Adjust the top-level inherited provisions of… so/so that/to be/to…, Adjust the top-level private provisions of… so/so that/to be/to…, From the micro.md provisions…
 
 ### Administrative System Commands
 
@@ -212,17 +204,13 @@ Designate… as…, Give my role of… to…, Undesignate… as…
 
 ... Define…, … Alias… As…, …Dealias(ed) all (the) aliases for…, … Dealias(ed)… as…, Change the … to … mode…, Set... custom... confirmation..., Clear... custom... confirmation..., Set ... welcome message to..., Set... Welcome message for... To..., Clear welcome messages..., Clear welcome message for...
 
-### Module System Commands
-
-Define a module that/which/where... Named/called..., Update the... module... To have..., Rename the... Module to..., Load... Module..., Restore… module…, Stop/Cancel/Unload... Module(s)..., Add a... From...
-
 ### Processing System Commands
 
 … Modiphate… effects… to/with/as/is/are… modiphs…, … Modiphade… modiphs… to/with/as/is/are… modiphases…
 
-### Contacting & Joining Requests
+### Contacting Requests and Joining Requests
 
-### Incoming Contacting & Joining Requests
+### Incoming Contacting Requests and Incoming Joining Requests
 
 ## End of the Detailed Outline of the Waepoint System Standards
 
