@@ -54,6 +54,8 @@ Waepoint System Standards of the main git branch of the waepointstandards git re
 
 Waepoint System Standards of the git branch the user has most recently described to be trying out of the waepointstandards git repository from the git origin stored at the address https://github.com/waepoints/waepointstandards
 
+Definitions, Commands, Comments, and Provisions, which are matching with the Superuser Privilege(s) Provisions stored at the address http://waepoints.github.io/waepoints-web/superuser/index.html
+
 Auxiliary Notes
 
 > The above priorities within the system priorities are elevated in priority below the below priorities in terms of the system priorities
@@ -68,7 +70,7 @@ Definitions Of The Joined Compatible System(s) to the User’s System, and of Th
 
 Provisions Of The Joined Compatible System(s) to the User’s System, and of The User(s) of The Joined Compatible System(s) to the User’s System
 
-Defined System Commands, and Defined System Command Gestures
+Defined System Commands, and Defined System Command Gestures, Other System Commands, and Other System Command Gestures
 
 Ways, and Tenets, and Definitions Of The Users’ Interactions On A Zone, and Of A Zone, or A Group of Zones, or Groups of Zones Of The Managing Entity
 
