@@ -110,7 +110,7 @@ System Command System Speech Focus, System Command Name(s), System Command Descr
 
 ### System Setup
 
-Auxiliary Notes, Effects, Modiphs, Modiphizing/Modiphazing, Modiphating, Modiphading, Modiphases, Parallels, Gateways, System, System Stack, Independent System, Travel, Protocols, Inheriting, Managing Entity, Preferrings, Inventory, Hub Provisions, User, Owner, Administrator, Moderator, Endpoint, The Grand Lobby, Independent Lobby, Joining, Waepoint, Hub, Definition Of The Endpoint, or Waepoint, or Independent System, or Stacked System, Confirmation, Messaging Confirmation, System Command Confirmation, Abandon, Shelving, Changelog, Activity, Mandates, Affect, History, Securing, Securelinking, Freeing, Locking, Warding, Free, Anchoring, Stacking, Effecting, Mappings, Relaypoint, Resource, Clustering, Extending, Modes, Scopes
+Auxiliary Notes, Effects, Modiphs, Modiphizing/Modiphazing, Modiphating, Modiphading, Modiphases, Parallels, Gateways, Modules, Module Descriptions, System, System Stack, Independent System, Travel, Protocols, Inheriting, Managing Entity, Preferrings, Inventory, Hub Provisions, User, Owner, Administrator, Moderator, Endpoint, The Grand Lobby, Independent Lobby, Joining, Waepoint, Hub, Definition Of The Endpoint, or Waepoint, or Independent System, or Stacked System, Confirmation, Messaging Confirmation, System Command Confirmation, Abandon, Shelving, Changelog, Activity, Mandates, Affect, History, Securing, Securelinking, Freeing, Locking, Warding, Free, Anchoring, Stacking, Effecting, Mappings, Relaypoint, Resource, Clustering, Extending, Modes, Scopes
 
 ### System Mappings
 
@@ -203,6 +203,10 @@ Designate… as…, Give my role of… to…, Undesignate… as…
 ### Interfacing System Commands
 
 ... Define…, … Alias… As…, …Dealias(ed) all (the) aliases for…, … Dealias(ed)… as…, Change the … to … mode…, Set... custom... confirmation..., Clear... custom... confirmation..., Set ... welcome message to..., Set... Welcome message for... To..., Clear welcome messages..., Clear welcome message for...
+
+### Module System Commands
+
+Define a module that/which/where... Named/called..., Update the... module... To have..., Rename the... Module to..., Load... Module..., Restore… module…, Stop/Cancel/Unload... Module(s)..., Add a... From...
 
 ### Processing System Commands
 
