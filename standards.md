@@ -247,7 +247,7 @@ Designate… as…, Give my role of… to…, Undesignate… as…
 
 ### Interfacing System Commands
 
-... Define…, … Alias… As…, …Dealias(ed) all (the) aliases for…, … Dealias(ed)… as…, Change the … to … mode…, Set... custom... confirmation..., Clear... custom... confirmation..., Set ... welcome message to..., Set... Welcome message for... To..., Clear welcome messages..., Clear welcome message for...
+... Define a definition…, … Alias… As…, …Dealias(ed) all (the) aliases for…, … Dealias(ed)… as…, Change the … to … mode…, Set... custom... confirmation..., Clear... custom... confirmation..., Set ... welcome message to..., Set... Welcome message for... To..., Clear welcome messages..., Clear welcome message for...
 
 ### Module System Commands
 
@@ -603,7 +603,7 @@ and meets the criteria specified, if the user is an owner and/or administrator r
 
 ### Interfacing System Commands
 
-**... Define…**, and a description of a system command, or a system command gesture, or/and, a description matching the proper syntax, and purpose, of a definition, defines, and stacks, the proper relevant device(s) from the scope from user-level through to users-level on a definition for interpreting the system command gesture, or system command, or stacks the proper relevant device(s) from the scope from user-level to users-level on the definition described, if given, or cued by the system, and, or, endpoint or waepoint, as a system command and the definition is legal in wording, and phrasing
+**... Define a definition…**, and a description of a system command, or a system command gesture, or/and, a description matching the proper syntax, and purpose, of a definition, defines, and stacks, the proper relevant device(s) from the scope from user-level through to users-level on a definition for interpreting the system command gesture, or system command, or stacks the proper relevant device(s) from the scope from user-level to users-level on the definition described, if given, or cued by the system, and, or, endpoint or waepoint, as a system command and the definition is legal in wording, and phrasing
 **...Alias... As...** when given, or cued by the system, and, or, endpoint or waepoint, as a system command, aliases a phrase, for the user’s self, as another phrase, if the phrase doesn’t contain a system command, which isn’t the ...Alias... As... System Command and the system command names aren’t allowed to be aliased as other phrases than the system command names
 **...Dealias(ed) all (the) aliases for…** when given, or cued by the system, and, or, endpoint or waepoint, as a system command, dealiases, for the user’s self, all aliases described of the described phrase, or all the aliases of the described phrase if a criteria of aliases to dealias aren’t described, has described by the user which were the system command declarations for the ...Alias.. As... System Commands given for the phrase referenced and/or described
 **...Dealias(ed)… as…** when given, or cued by the system, and, or, endpoint or waepoint, as a system command, dealiases, for the user’s self, the specific alias the described phrase described by the user which were the system command declarations for the ...Alias.. As... System Commands given for the phrase referenced and/or described
