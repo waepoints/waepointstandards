@@ -8,6 +8,8 @@ Governing Entity Governmental Published Policy
 
 Governing Entity Departmental Order, and/or Governing Entity Departmental Directive
 
+Governing Entity Writs
+
 The Standard Definition of the Waepoint System Standards for the Compatible Device(s) of the main git branch of the waepointstandards git repository from the git origin stored at the address https://github.com/waepoints/waepointstandards
 
 The Standard Definition of the Waepoint System Standards for the Compatible Device(s) of the git branch the user has most recently described to be trying out of the waepointstandards git repository from the git origin stored at the address https://github.com/waepoints/waepointstandards, if different than the main git branch of the git repository stored at the specific listed address
