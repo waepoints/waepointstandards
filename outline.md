@@ -146,7 +146,7 @@ Define System Command Gesture, Info Gesture, Home Gesture, Share & Accept Gestur
 
 ### Initial Consent System Commands
 
-...consent/consents/consenting/consented to the most recent revision…, … consent/consents/consenting/consented to the set of provisions which are the Waepoint System Standards’s set of the provisions which are of the standardized Waepoint System Standards version most recent…
+...consent/consents/consenting/consented to the most recent revision…, … consent/consents/consenting/consented to the set of provisions which are the Waepoint System Standards’s set of the provisions which are of the newest, each time there’s a newest, standardized Waepoint System Standards version…
 
 ### Consent System Commands
 
