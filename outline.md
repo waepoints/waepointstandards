@@ -102,6 +102,12 @@ Waepoint Segment
 
 Stacked System or Independent System or Device
 
+### System Designations
+
+Managing Entity The User’s Waepoint Inherits From
+
+Securelinking Instance
+
 ### System Speech and System Speech Categories
 
 Chatter, Commands, Comments, Imbuing, Provisions, Tenets, Ways, Confirmed Phrase and Confirmed Phrases, Sets
