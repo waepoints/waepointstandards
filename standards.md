@@ -57,7 +57,7 @@ Waepoint System Standards of the main git branch of the waepointstandards git re
 
 Waepoint System Standards of the git branch the user has most recently described to be trying out of the waepointstandards git repository from the git origin stored at the address https://github.com/waepoints/waepointstandards
 
-Definitions, Commands, Comments, and Provisions, which are matching with the Superuser Privilege(s) Provisions stored at the address http://waepoints.github.io/waepoints-web/superuser/index.html
+Definitions, Commands, Comments, and Provisions, which are matching with the Superuser Provisions stored at the address http://waepoints.github.io/waepoints-web/superuser/index.html
 
 Auxiliary Notes
 
