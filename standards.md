@@ -155,7 +155,7 @@ Securelinking Instance
 
 ### System Speech and System Speech Categories
 
-Chatter, Commands, Comments, Imbuing, Provisions, Tenets, Ways, Confirmed Phrase and Confirmed Phrases, Sets
+Chatter, Commands, Comments, Imbuing, Provisions, Tenets, Ways, Confirmed Phrase and Confirmed Phrases, Sets, Definitions, Noticefications
 
 ### System Command Speech
 
@@ -304,6 +304,8 @@ Define a module that/which/where... Named/called..., Update the... module... To 
 **Sets**, groups of stacked system speech for the user which can be swapped out in full, added to and removed from, or stacked and unstacked as a whole, and the Sets provision’s text is barring governing entity restriction, and, or, approval, of the necessary and proper authorization(s), authorization level(s), and role(s)
 
 **Definitions**, any phrase which references an endpoint, or waepoint, and, or, system, specifically and directly, or the effects of an endpoint, or waepoint, and, or, system,  specifically and directly, also an option is one of the listed options and, or, an object, and, or, concept, in respects to interactions with an endpoint, or waepoint, and, or, system, specifically and directly, or the effects of an endpoint, or waepoint, and, or, system, specifically and directly, and definitions stay within the defining user’s authorization(s), authorization level(s), role(s), permission(s) granted to the same specific user, and consent given to the same specific user, barring governing entity restriction, and, or, approval, of the necessary and proper authorization(s), authorization level(s), and role(s), and definitions when given in system commands, or documents, aren’t allowed to be illegal in wording, and, or, phrasing, and aren’t effecting for the user if the definitions, when given in system commands, or documents, aren’t legal in wording, and, or, phrasing, and, or, the application of the definitions would be, and, or, is, illegal, and the Definitions provision’s text is barring governing entity, and, or, a user which has the approval by a governing entity to, restriction, and, or, approval, of the necessary and proper authorization(s), authorization level(s), and role(s)
+
+**Noticefications**, the information provided to the user through the user’s preferred for the user for the moment form of noticing which is information pertinent to the system and the system commands they have been performing
 
 ## System Command Speech
 
