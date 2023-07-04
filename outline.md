@@ -176,7 +176,7 @@ I’m going home/I’m goin’ home/I’m going to my home/I’m goin’ to my h
 
 ### Utility System Commands
 
-Generate a new name…, Deshelve…, ...Ask… … Where…/… Where’s…/… Nanomap…, I’m going to my home zone…, Share… with…, Store… in… inventory…
+Generate a standard new name…, Deshelve…, ...Ask… … Where…/… Where’s…/… Nanomap…, I’m going to my home zone…, Share… with…, Store… in… inventory…
 
 ### First Aid System Commands
 
@@ -220,7 +220,7 @@ Designate… as…, Give my role of… to…, Undesignate… as…
 
 ### Interfacing System Commands
 
-… Define a definition…, … Alias… As…, …Dealias(ed) all (the) aliases for…, … Dealias(ed)… as…, Change the … to … mode…, Set... custom... confirmation..., Clear... custom... confirmation..., Set ... welcome message to..., Set... Welcome message for... To..., Clear welcome messages..., Clear welcome message for...
+Standard Converse…, Standard Describe…, Standard Define…, … Specifically…, … Alias… As…, …Dealias(ed) (all) (the) aliases for…, … Dealias(ed)… as…, Change the … to … mode…, Set... custom... confirmation..., Clear... custom... confirmation..., Set ... welcome message to..., Set... Welcome message for... To..., Clear welcome messages..., Clear welcome message for...
 
 ### Module System Commands
 
