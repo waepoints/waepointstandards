@@ -367,7 +367,7 @@ Define a module that/which/where... Named/called..., Update the... module... To 
 
 **Inheriting**, referring to the definition of the system or or segment or device of a system in the definition of the system of the system or a device or segment or device, within, or out, of the system stack, but within the network of the endpoint
 
-**Managing Entity**, the entity, or entities, which the inheriting or contained, or stacked on, system is inheriting, or containing, or stacked by, from in the inheritance chain, or in the network, or in the system stack, respectively, in respect to the system, endpoint, waepoint
+**Managing Entity**, the entity, or entities, which the inheriting or contained, or stacked on, system is inheriting, or containing, or stacked by, successively, up to the beginning of the inheritance chain, from in the inheritance chain, or in the network, or in the system stack, respectively, in respect to the system, endpoint, waepoint
 
 **Preferrings**, representations of how the user prefers to be interacted with tracked automatically by the system or by the user’s own self or other users and are changed naturally and only by the user’s own self through explicit and implicit or inherent or subconscious or semiconsciousconsideration and expression, never system commands
 
