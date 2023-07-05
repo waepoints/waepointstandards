@@ -47,7 +47,7 @@ Governing Entity Governmental Published Policy
 
 Governing Entity Departmental Order, and/or Governing Entity Departmental Directive
 
-Governing Entity Writs
+Governing Entity Writs of Mandate
 
 The Standard Definition of the Waepoint System Standards for the Compatible Device(s) of the main git branch of the waepointstandards git repository from the git origin stored at the address https://github.com/waepoints/waepointstandards
 
