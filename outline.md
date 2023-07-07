@@ -2,7 +2,7 @@
 
 ## Detailed Outline of the Waepoint System Standards
 
-### System Speech and System Setup Priorities Hierarchy
+### System Conversation and System Setup Priorities Hierarchy
 
 Governing Entity Governmental Published Policy
 
@@ -118,13 +118,13 @@ Managing Entity The User’s Waepoint Inherits From
 
 Securelinking Instance
 
-### System Speech and System Speech Categories
+### System Conversation and System Conversation Categories
 
 Chatter, Commands, Comments, Imbuing, Provisions, Tenets, Ways, Confirmed Phrase and Confirmed Phrases, Sets
 
-### System Command Speech
+### System Command Communication
 
-System Command System Speech Focus, System Command Name(s), System Command Descriptions, System Command Syntax, System Command Declarations, System Command Catalysts, System Command Interactions
+System Command System Conversation Focus, System Command Name(s), System Command Descriptions, System Command Syntax, System Command Declarations, System Command Catalysts, System Command Interactions
 
 ### System Setup
 
