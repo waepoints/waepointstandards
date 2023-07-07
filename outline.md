@@ -100,7 +100,7 @@ Moderator
 
 User 
 
-### System Definition Hierachy
+### System Definition and System Rule Hierachy
 
 Endpoint or Compatible Server Segment
 
