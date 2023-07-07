@@ -122,7 +122,7 @@ Securelinking Instance
 
 Chatter, Commands, Comments, Imbuing, Provisions, Tenets, Ways, Confirmed Phrase and Confirmed Phrases, Sets
 
-### System Command Communication
+### System Communication
 
 System Command System Conversation Focus, System Command Name(s), System Command Descriptions, System Command Syntax, System Command Declarations, System Command Catalysts, System Command Interactions
 
