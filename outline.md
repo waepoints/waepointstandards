@@ -120,7 +120,7 @@ Securelinking Instance
 
 ### System Conversation and System Conversation Categories
 
-Chatter, Commands, Comments, Imbuing, Provisions, Tenets, Ways, Confirmed Phrase and Confirmed Phrases, Sets
+Chatter, Commands, Comments, Imbuing, Provisions, Rules, Tenets, Ways, Confirmed Phrase and Confirmed Phrases, Sets
 
 ### System Communication
 
