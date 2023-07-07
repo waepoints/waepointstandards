@@ -24,15 +24,13 @@ Waepoint System Standards of the git branch the user has most recently described
 
 Auxiliary Notes
 
-Modules Of The System(s) On The User’s Device
+Modules Of The System(s) On The User’s Device(s), and, or, Software, and, or, Clustering Resources, Definitions, Commands, Comments, and Provisions, which are matching with the Superuser Provisions stored at the address http://waepoints.github.io/waepoints-web/superuser/index.html
 
 Modules Of The Joined Compatible System(s) and/or From Outside The User’s System Interacting, Mapping(s), Collection(s), System, or Systems, or Compatible Device, or Compatible Devices, and Users of
 
-The Highest Priority Permitted For Module Added Material And Use Of Modules 
+The Highest Priority Permitted For Module Added Material And Use Of Modules
 
 The Highest Priority Permitted For Module Added Material And Use Of Modules Of The Joined and/or From Outside The User’s System Interacting, Mapping(s), Collection(s), System, or Systems, or Compatible Device, or Compatible Devices, and User(s) of
-
-Definitions, Commands, Comments, and Provisions, which are matching with the Superuser Provisions stored at the address http://waepoints.github.io/waepoints-web/superuser/index.html
 
 > The above priorities within the system priorities are elevated in priority below the below priorities in terms of the system priorities
 
