@@ -1,6 +1,6 @@
 # Waepoint System Standards Document
 
-## Outline of the Waepoint System Standards Document Sections and Titles, Descriptions and Headings
+## Outline of the Waepoint System Standards Document Sections and Names, Titles, Descriptions and Headings
 
 1. [System Conversation and System Setup Priorities Hierarchy](https://waepoints.github.io/waepointstandards-documentation/standards.html#system-conversation-and-system-setup-priorities-hierarchy)
 2. [Preferrings Hierarchy](https://waepoints.github.io/waepointstandards-documentation/standards.html#preferring-hierarchy)
