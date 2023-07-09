@@ -126,7 +126,7 @@ System Command System Conversation Focus, System Command Name(s), System Command
 
 ### System Setup
 
-Auxiliary Notes, Effects, Modiphs, Modiphizing/Modiphazing, Modiphating, Modiphading, Modiphases, Parallels, Gateways, Modules, Module Descriptions, System, Headset, System, System Stack, Independent System, Travel, Protocols, Inheriting, Managing Entity, Preferrings, Inventory, Hub Provisions, User, Owner, Administrator, Moderator, Endpoint, The Grand Lobby, Independent Lobby, Joining, Waepoint, Hub, Definition Of The Endpoint, or Waepoint, or Independent System, or Stacked System, Confirmation, Messaging Confirmation, System Command Confirmation, Abandon, Shelving, Changelog, Activity, Mandates, Affect, History, Securing, Securelinking, Freeing, Locking, Warding, Free, Anchoring, Stacking, Oppering, Oppetivity, Effecting, Mappings, Relaypoint, Resource, Clustering, Extending, Modes, Scopes
+Chatter, Auxiliary Notes, Effects, Modiphs, Modiphizing/Modiphazing, Modiphating, Modiphading, Modiphases, Parallels, Gateways, Modules, Module Descriptions, System, Headset, System, System Stack, Independent System, Travel, Protocols, Inheriting, Managing Entity, Preferrings, Inventory, Hub Provisions, User, Owner, Administrator, Moderator, Endpoint, The Grand Lobby, Independent Lobby, Joining, Waepoint, Hub, Definition Of The Endpoint, or Waepoint, or Independent System, or Stacked System, Confirmation, Messaging Confirmation, System Command Confirmation, Abandon, Shelving, Changelog, Activity, Mandates, Affect, History, Securing, Securelinking, Freeing, Locking, Warding, Free, Anchoring, Stacking, Oppering, Oppetivity, Effecting, Mappings, Relaypoint, Resource, Clustering, Extending, Modes, Scopes
 
 ### System Mappings
 
