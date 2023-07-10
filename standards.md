@@ -307,7 +307,7 @@ Define a module that/which/where... Named/called..., Update the... module... To 
 
 **Noticefications**, the information provided to the user through the user’s preferred for the user for the moment form of noticing which is information pertinent to the system and the system commands they have been performing, and don’t continue to notify beyond the user’s preferrings for being notified as such, and are also given by the system, or waepoint, when expected, but accurate for the current time and date of the receipt of the noticefication and the duration of the conversing of the noticefication to the user
 
-## system command communication
+## System Command Communication
 
 **System Command Task Designations**, every task is designated a performance style through matching of, and with other preferrings, matching of the markers, and the medium of the carefully constructed nature of the brain, and the associated mappings thereof, in and within the markings, and the markers relevantly associated, evaluated when doing the evaluation of the user’s preferrings
 
@@ -800,11 +800,11 @@ and meets the criteria specified, if the user is an owner and/or administrator r
 
 ### Administrative System Commands
 
-**Designate… as a…**, designates the user described before the words as a... as the role which follows the words as a... the designator must have the appropriate role to do so
+**Designate… as a…**, designates the user, or other designee, described before the words as a... as the role which follows the words as a... the designator must have the appropriate role to do so
 
-**Give my role of… to…**, passes on the role described by the words following my role of if currently held by the commanding user to the user described after the word to..., the role given must be an administrator or a moderator or be described by provisions stacked, the giving user must have the appropriate role to do so
+**Give my role of… to…**, passes on the role described by the words following my role of if currently held by the commanding user to the other user described after the word to..., the role given must be an administrator or a moderator or be described by provisions stacked, the giving user must have the appropriate role to do so
 
-**Undesignate… as a…**, stops the user described after the word undesignate but before the words as a being the role named after the words as a..., the role goes back to the administrator to be designated anew, the undesignating user must have the appropriate role to do so
+**Undesignate… as a…**, stops the user, or other designee, described after the word undesignate but before the words as a being the role named after the words as a..., the role goes back to the administrator to be designated anew, the undesignating user must have the appropriate role to do so
 
 ### Interfacing System Commands
 
