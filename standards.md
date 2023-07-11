@@ -21,6 +21,7 @@
 * [Contacting System Commands](https://waepoints.github.io/waepointstandards-documentation/standards.html#contacting-system-commands-1)
 * [Transportation System Commands](https://waepoints.github.io/waepointstandards-documentation/standards.html#transportation-system-commands-1)
 * [First Aid System Commands](https://waepoints.github.io/waepointstandards-documentation/standards.html#first-aid-system-commands-1)
+* [Permanence System Commands](https://waepoints.github.io/waepointstandards-documentation/standards.html#permanence-system-command-1)
 * [Declaring System Commands](https://waepoints.github.io/waepointstandards-documentation/standards.html#declaring-system-commands-1)
 * [Communication System Commands](https://waepoints.github.io/waepointstandards-documentation/standards.html#communication-system-commands-1) 
 * [Sets System Commands](https://waepoints.github.io/waepointstandards-documentation/standards.html#sets-system-commands-1)
