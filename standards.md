@@ -9,7 +9,7 @@
 5. [System Conversation And System Conversation Categories](https://waepoints.github.io/waepointstandards-documentation/standards.html#system-conversation-and-system-conversation-categories-1)
 6. [System Command Communication](https://waepoints.github.io/waepointstandards-documentation/standards.html#system-command-communication-1)
 7. [System Setup](https://waepoints.github.io/waepointstandards-documentation/standards.html#system-setup-1)
-* Chatter, Auxiliary Notes, Effects, Modiphs, Modiphizing/Modiphazing, Modiphating, Modiphading, Modiphases, Parallels, Gateways, Modules, Module Descriptions, Server, Headset, System, System Stack, Independent System, Travel, Protocols, Inheriting, Managing Entity, Preferrings, Inventory, Hub Provisions, User, Owner, Administrator, Moderator, Endpoint, The Grand Lobby, Independent Lobby, Joining, Waepoint, Hub, Definition Of The Endpoint, or Waepoint, or Independent System, or Network System, or Stacked System, Confirmation, Messaging Confirmation, System Command Confirmation, Abandon, Shelving, Changelog, Activity, Mandates, Affect, History, Securing, Securelinking, Freeing, Locking, Warding, Free, Anchoring, Stacking, Oppering, Oppetivity, Effecting, Mappings, Relaypoint, Resource, Clustering, Extending, Modes, Scopes
+* Mission Log, Mission Description, Chatter, Auxiliary Notes, Effects, Modiphs, Modiphizing/Modiphazing, Modiphating, Modiphading, Modiphases, Parallels, Gateways, Modules, Module Descriptions, Server, Headset, System, System Stack, Independent System, Travel, Protocols, Inheriting, Managing Entity, Preferrings, Inventory, Hub Provisions, User, Owner, Administrator, Moderator, Endpoint, The Grand Lobby, Independent Lobby, Joining, Waepoint, Hub, Definition Of The Endpoint, or Waepoint, or Independent System, or Network System, or Stacked System, Confirmation, Messaging Confirmation, System Command Confirmation, Abandon, Shelving, Changelog, Activity, Mandates, Affect, History, Securing, Securelinking, Freeing, Locking, Warding, Free, Anchoring, Stacking, Oppering, Oppetivity, Effecting, Mappings, Relaypoint, Resource, Clustering, Extending, Modes, Scopes
 8. [System Mappings](https://waepoints.github.io/waepointstandards-documentation/standards.html#system-mappings-1)
 9. [Reserved Defined System Command Gestures](https://waepoints.github.io/waepointstandards-documentation/standards.html#reserved-defined-system-command-gestures-1)
 * [Focusing Gestures](https://waepoints.github.io/waepointstandards-documentation/standards.html#focusing-gestures-1) 
@@ -155,7 +155,7 @@ Securelinking Instance
 
 ### System Conversation and System Conversation Categories
 
-Chatter, Commands, Comments, Imbuing, Provisions, Rules, Tenets, Ways, Confirmed Phrase and Confirmed Phrases, Sets, Definitions, Noticefications
+Commands, Comments, Imbuing, Provisions, Rules, Tenets, Ways, Confirmed Phrase and Confirmed Phrases, Sets, Definitions, Noticefications
 
 ### System Command Communication
 
@@ -163,7 +163,7 @@ System Command, System Command System Conversation Focus, System Command Name(s)
 
 ### System Setup
 
-Chatter, Auxiliary Notes, Effects, Modiphs, Modiphizing/Modiphazing, Modiphating, Modiphading, Modiphases, Parallels, Gateways, Modules, Module Descriptions, Server, Headset, System, System Stack, Independent System, Travel, Protocols, Inheriting, Managing Entity, Preferrings, Inventory, Hub Provisions, User, Owner, Administrator, Moderator, Endpoint, The Grand Lobby, Independent Lobby, Joining, Waepoint, Hub, Definition Of The Endpoint, or Waepoint, or Independent System, or Network System, or Stacked System, Confirmation, Messaging Confirmation, System Command Confirmation, Abandon, Shelving, Changelog, Activity, Mandates, Affect, History, Securing, Securelinking, Freeing, Locking, Warding, Free, Anchoring, Stacking, Oppering, Oppetivity, Effecting, Mappings, Relaypoint, Resource, Clustering, Extending, Modes, Scopes
+Mission Log, Mission Description, Chatter, Auxiliary Notes, Effects, Modiphs, Modiphizing/Modiphazing, Modiphating, Modiphading, Modiphases, Parallels, Gateways, Modules, Module Descriptions, Server, Headset, System, System Stack, Independent System, Travel, Protocols, Inheriting, Managing Entity, Preferrings, Inventory, Hub Provisions, User, Owner, Administrator, Moderator, Endpoint, The Grand Lobby, Independent Lobby, Joining, Waepoint, Hub, Definition Of The Endpoint, or Waepoint, or Independent System, or Network System, or Stacked System, Confirmation, Messaging Confirmation, System Command Confirmation, Abandon, Shelving, Changelog, Activity, Mandates, Affect, History, Securing, Securelinking, Freeing, Locking, Warding, Free, Anchoring, Stacking, Oppering, Oppetivity, Effecting, Mappings, Relaypoint, Resource, Clustering, Extending, Modes, Scopes
 
 ### System Mappings
 
@@ -334,6 +334,10 @@ Define a module that/which/where... Named/called..., Update the... module... To 
 > The System Setup provisions’ text is barring governing entity restriction, and, or, approval, of the necessary and proper authorization(s), authorization level(s), and role(s)
 
 > Chatter isn’t allowed to be effecting as chatter, but may be made to be effecting as system conversation with valid performed successfully system commands given, by the user(s), and performed by the endpoint, or waepoint, or independent system, and, or, stacked system, and, or, performed by the endpoint, or waepoint, or independent system, and, or, stacked system, in response to a request of some other user(s), by the user(s), or, valid performed successfully system command gestures, by the user(s), and, or, by generated, endpoint, or waepoint, or independent system, and, or, stacked system, by a system command description matching the ways which system commands defining by system command descriptions are done in the System Command Description provision of the Waepoint System Standards, and performed, by the endpoint, or waepoint, or independent system, and, or, stacked system
+
+**Mission Log**, descriptions of the missions which have been assigned to, or by, the user, and their statuses, either assigned, in progress, complete, aborted, and the time and date timestamps of the attempt initiations and listing of the primary objectives, essential objective, and optional objectives, with assigned workers to, and each objective’s execution starting time and duration, if has been started, and a complete, brief and full summary
+
+**Mission Descriptions**, descriptions kept in inventory which outline mission objectives, details, scheduled times and prerequisite conditions, and assigned worker group, names or designations, and roles, and summary of the execution of the mission if assigned and executed
 
 **Chatter**, the conversation that has been had or is being had by a user with a representation of the intention, stored by the system in the system, the user had for the conversation, and definitions of the user(s) which had the conversation, or heard the conversation, or reread, read, record, recorded, played back, the conversation in audio, or transcript, or transcribed, form for review, and aren’t effecting for the user if the chatter isn’t legal in wording, and, or, phrasing, and, or, the application of the chattering would be, and, or, is, illegal, and the Chatter provision’s text is barring governing entity restriction, and, or, approval, of the necessary and proper authorization(s), authorization level(s), and role(s)
 
