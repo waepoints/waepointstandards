@@ -1,5 +1,16 @@
 # Detailed Outline Pertaining To The Waepoint System Standards Document
 
+## Document Formatting Key
+
+# Primary Set Of Provisions Name
+## Secondary Set Of Provisions Name
+### Tertiary Set Of Provisions
+``1. Document Section Title [Link Title](Link)``
+``* Document Subsection Title``
+**Provision Name, Definition Title, System Command Name, System Command Gesture Title**,
+Provision, Definition, System Command Description
+> Provisions About Sets Of Provisions
+
 ## Detailed Outline of the Waepoint System Standards
 
 ### System Conversation and System Setup Priorities Hierarchy
